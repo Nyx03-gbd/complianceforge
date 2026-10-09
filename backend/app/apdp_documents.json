@@ -1,0 +1,163 @@
+{
+  "name": "ComplianceForge — Référentiel documentaire APDP",
+  "version": "0.1.0",
+  "source": "Documents APDP fournis dans le projet",
+  "policy": {
+    "source_of_truth": "PDF APDP fourni",
+    "preserve_official_structure": true,
+    "do_not_simplify_sections": true,
+    "do_not_invent_missing_fields": true
+  },
+  "documents": [
+    {
+      "id": "formulaire_unique",
+      "title": "Formulaire de formalités préalables — traitement envisagé",
+      "category": "formalites",
+      "source_file": "templates/apdp/formulaire_unique.pdf",
+      "format": "pdf",
+      "official_layout": true,
+      "editable": false,
+      "notes": "Conserver la structure, les rubriques, tableaux et cases du document source APDP."
+    },
+    {
+      "id": "annexe_1_sous_traitance",
+      "title": "Annexe 1 : Sous-traitance",
+      "category": "formalites",
+      "source_file": "templates/apdp/annexe_1_sous_traitance.pdf",
+      "format": "pdf",
+      "official_layout": true,
+      "editable": false,
+      "notes": "Conserver la structure, les rubriques, tableaux et cases du document source APDP."
+    },
+    {
+      "id": "annexe_2_communication",
+      "title": "Annexe 2 : Communication",
+      "category": "formalites",
+      "source_file": "templates/apdp/annexe_2_communication.pdf",
+      "format": "pdf",
+      "official_layout": true,
+      "editable": false,
+      "notes": "Conserver la structure, les rubriques, tableaux et cases du document source APDP."
+    },
+    {
+      "id": "annexe_3_interconnexion",
+      "title": "Annexe 3 : Interconnexion",
+      "category": "formalites",
+      "source_file": "templates/apdp/annexe_3_interconnexion.pdf",
+      "format": "pdf",
+      "official_layout": true,
+      "editable": false,
+      "notes": "Conserver la structure, les rubriques, tableaux et cases du document source APDP."
+    },
+    {
+      "id": "annexe_4_transfert",
+      "title": "Annexe 4 : Transfert",
+      "category": "formalites",
+      "source_file": "templates/apdp/annexe_4_transfert.pdf",
+      "format": "pdf",
+      "official_layout": true,
+      "editable": false,
+      "notes": "Conserver la structure, les rubriques, tableaux et cases du document source APDP."
+    },
+    {
+      "id": "formulaire_capteurs",
+      "title": "Formulaire complémentaire — traitements par capteurs",
+      "category": "complementaire",
+      "source_file": "templates/apdp/formulaire_capteurs.pdf",
+      "format": "pdf",
+      "official_layout": true,
+      "editable": false,
+      "notes": "Conserver la structure, les rubriques, tableaux et cases du document source APDP."
+    },
+    {
+      "id": "formulaire_site_web",
+      "title": "Formulaire complémentaire — traitements sur site web",
+      "category": "complementaire",
+      "source_file": "templates/apdp/formulaire_site_web.pdf",
+      "format": "pdf",
+      "official_layout": true,
+      "editable": false,
+      "notes": "Conserver la structure, les rubriques, tableaux et cases du document source APDP."
+    },
+    {
+      "id": "formulaire_signalement",
+      "title": "Formulaire de signalement",
+      "category": "incidents",
+      "source_file": "templates/apdp/formulaire_signalement.pdf",
+      "format": "pdf",
+      "official_layout": true,
+      "editable": false,
+      "notes": "Conserver la structure, les rubriques, tableaux et cases du document source APDP."
+    },
+    {
+      "id": "consentement_transmission_electronique",
+      "title": "Consentement à la transmission par voie électronique",
+      "category": "consentement",
+      "source_file": "templates/apdp/consentement_transmission_electronique.pdf",
+      "format": "pdf",
+      "official_layout": true,
+      "editable": false,
+      "notes": "Conserver la structure, les rubriques, tableaux et cases du document source APDP."
+    },
+    {
+      "id": "engagement_conformite",
+      "title": "Formulaire d’engagement de conformité",
+      "category": "conformite",
+      "source_file": "templates/apdp/engagement_conformite.pdf",
+      "format": "pdf",
+      "official_layout": true,
+      "editable": false,
+      "notes": "Conserver la structure, les rubriques, tableaux et cases du document source APDP."
+    },
+    {
+      "id": "engagement_dpo",
+      "title": "Engagement de respect des obligations du DPD",
+      "category": "dpo",
+      "source_file": "templates/apdp/engagement_dpo.pdf",
+      "format": "pdf",
+      "official_layout": true,
+      "editable": false,
+      "notes": "Conserver la structure, les rubriques, tableaux et cases du document source APDP."
+    },
+    {
+      "id": "liste_pieces_formulaire_unique",
+      "title": "Pièces à joindre au formulaire unique",
+      "category": "pieces",
+      "source_file": "templates/apdp/liste_pieces_formulaire_unique.pdf",
+      "format": "pdf",
+      "official_layout": true,
+      "editable": false,
+      "notes": "Conserver la structure, les rubriques, tableaux et cases du document source APDP."
+    },
+    {
+      "id": "registre_videosurveillance",
+      "title": "Modèle de registre des activités de vidéosurveillance",
+      "category": "registres",
+      "source_file": "templates/apdp/registre_videosurveillance.pdf",
+      "format": "pdf",
+      "official_layout": true,
+      "editable": false,
+      "notes": "Conserver la structure, les rubriques, tableaux et cases du document source APDP."
+    },
+    {
+      "id": "outil_verification",
+      "title": "Outil de vérification du remplissage",
+      "category": "controle",
+      "source_file": "templates/apdp/outil_verification.pdf",
+      "format": "pdf",
+      "official_layout": true,
+      "editable": false,
+      "notes": "Conserver la structure, les rubriques, tableaux et cases du document source APDP."
+    },
+    {
+      "id": "registre_activites_traitement",
+      "title": "Registre des activités de traitement",
+      "category": "registres",
+      "source_file": "templates/apdp/registre_activites_traitement.pdf",
+      "format": "pdf",
+      "official_layout": true,
+      "editable": false,
+      "notes": "Conserver la structure, les rubriques, tableaux et cases du document source APDP."
+    }
+  ]
+}

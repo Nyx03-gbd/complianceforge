@@ -1,0 +1,11 @@
+.env
+*.bak*
+__pycache__/
+*.pyc
+venv/
+.venv/
+node_modules/
+backend/generated/apdp/*
+backend/documents/*
+!.gitkeep
+*.log

@@ -1,0 +1,2738 @@
+{
+  "* APDP — MISE EN PAGE COMPACTE": {
+    "fr": "* APDP — MISE EN PAGE COMPACTE",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "* Aucun impact sur les données ou le mapping PDF.": {
+    "fr": "* Aucun impact sur les données ou le mapping PDF.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "* Les blocs s'enchaînent sans espaces artificiels.": {
+    "fr": "* Les blocs s'enchaînent sans espaces artificiels.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "+ Ajouter une catégorie": {
+    "fr": "+ Ajouter une catégorie",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "+ Nouvel incident": {
+    "fr": "+ Nouvel incident",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "- Sélectionner -": {
+    "fr": "- Sélectionner -",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "/g,": {
+    "fr": "/g,",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "/traitements": {
+    "fr": "/traitements",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "/traitements/ /scores/calculer": {
+    "fr": "/traitements/ /scores/calculer",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "0 2px 5px rgba(": {
+    "fr": "0 2px 5px rgba(",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "1 — Faible": {
+    "fr": "1 — Faible",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "135deg,": {
+    "fr": "135deg,",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "4 — Élevée": {
+    "fr": "4 — Élevée",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "A_licéite_legitimite": {
+    "fr": "A_licéite_legitimite",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Abus de privilèges internes": {
+    "fr": "Abus de privilèges internes",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Abus de privilèges ou mauvaise configuration": {
+    "fr": "Abus de privilèges ou mauvaise configuration",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Abus de privilèges ou mauvaise configuration.": {
+    "fr": "Abus de privilèges ou mauvaise configuration.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Acceptation électronique": {
+    "fr": "Acceptation électronique",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Accessibilité au sous-traitant": {
+    "fr": "Accessibilité au sous-traitant",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Accès aux images à distance": {
+    "fr": "Accès aux images à distance",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Accès compromis": {
+    "fr": "Accès compromis",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Accès logique / sauvegarde et protection des enregistrements": {
+    "fr": "Accès logique / sauvegarde et protection des enregistrements",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Accès physique": {
+    "fr": "Accès physique",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Accès physique au poste central de surveillance": {
+    "fr": "Accès physique au poste central de surveillance",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Accès rapides": {
+    "fr": "Accès rapides",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Accès tiers": {
+    "fr": "Accès tiers",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Accès électronique": {
+    "fr": "Accès électronique",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Accéder aux formulaires et annexes": {
+    "fr": "Accéder aux formulaires et annexes",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Actions à traiter en premier": {
+    "fr": "Actions à traiter en premier",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Activité": {
+    "fr": "Activité",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Adaptez la densité des": {
+    "fr": "Adaptez la densité des",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Adhérents": {
+    "fr": "Adhérents",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Administrateur": {
+    "fr": "Administrateur",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Administrateur applicatif": {
+    "fr": "Administrateur applicatif",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Adresse du représentant légal": {
+    "fr": "Adresse du représentant légal",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Adresse e-mail": {
+    "fr": "Adresse e-mail",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Adresse postale": {
+    "fr": "Adresse postale",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Adresse électronique": {
+    "fr": "Adresse électronique",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Ajoutez les catégories de données traitées": {
+    "fr": "Ajoutez les catégories de données traitées",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Aller au registre des traitements": {
+    "fr": "Aller au registre des traitements",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Analyse / Scoring": {
+    "fr": "Analyse / Scoring",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Annexe 1 - Sous-traitance": {
+    "fr": "Annexe 1 - Sous-traitance",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Annexe 2 - Communication": {
+    "fr": "Annexe 2 - Communication",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Annexe 3 - Interconnexion": {
+    "fr": "Annexe 3 - Interconnexion",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Annexe 4 - Transfert": {
+    "fr": "Annexe 4 - Transfert",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Aucun traitement": {
+    "fr": "Aucun traitement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Aucun traitement évalué": {
+    "fr": "Aucun traitement évalué",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Aucun événement de sécurité enregistré": {
+    "fr": "Aucun événement de sécurité enregistré",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Authentification multifacteur": {
+    "fr": "Authentification multifacteur",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Authentification renforcée": {
+    "fr": "Authentification renforcée",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Autorité / référence": {
+    "fr": "Autorité / référence",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Autre justification": {
+    "fr": "Autre justification",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Autre situation": {
+    "fr": "Autre situation",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Autres contacts": {
+    "fr": "Autres contacts",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Autres modalités d’information des personnes concernées": {
+    "fr": "Autres modalités d’information des personnes concernées",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Base légale": {
+    "fr": "Base légale",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Bienvenue dans ComplianceForge": {
+    "fr": "Bienvenue dans ComplianceForge",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "CARACTERISTIQUES ET FONCTIONNALITÉS DU SYSTEME": {
+    "fr": "CARACTERISTIQUES ET FONCTIONNALITÉS DU SYSTEME",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Cadre juridique et objectif du traitement.": {
+    "fr": "Cadre juridique et objectif du traitement.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Calcul et consultation des scores": {
+    "fr": "Calcul et consultation des scores",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Caractéristiques techniques des équipements utilisés": {
+    "fr": "Caractéristiques techniques des équipements utilisés",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Carré / Lot": {
+    "fr": "Carré / Lot",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Catégorie": {
+    "fr": "Catégorie",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Catégories de données": {
+    "fr": "Catégories de données",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Centralisez vos informations d'organisation, traitements, formalités APDP, risques et incidents.": {
+    "fr": "Centralisez vos informations d'organisation, traitements, formalités APDP, risques et incidents.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Ces informations pourront être réutilisées dans les formulaires APDP.": {
+    "fr": "Ces informations pourront être réutilisées dans les formulaires APDP.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Cette fonctionnalité pourra être": {
+    "fr": "Cette fonctionnalité pourra être",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Chargement des organisations...": {
+    "fr": "Chargement des organisations...",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Chargement des traitements...": {
+    "fr": "Chargement des traitements...",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Chargement du formulaire...": {
+    "fr": "Chargement du formulaire...",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Choisissez l'apparence": {
+    "fr": "Choisissez l'apparence",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Choisissez la langue de": {
+    "fr": "Choisissez la langue de",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Choisissez le niveau d'affichage": {
+    "fr": "Choisissez le niveau d'affichage",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Cible : 4": {
+    "fr": "Cible : 4",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Communication / transmission": {
+    "fr": "Communication / transmission",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Communication / transmission / diffusion": {
+    "fr": "Communication / transmission / diffusion",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Communication des données personnelles.": {
+    "fr": "Communication des données personnelles.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Compact": {
+    "fr": "Compact",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "ComplianceForge utilise les mappings APDP existants pour": {
+    "fr": "ComplianceForge utilise les mappings APDP existants pour",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Compromission d'un prestataire.": {
+    "fr": "Compromission d'un prestataire.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Compromission d’identifiants / hameçonnage": {
+    "fr": "Compromission d’identifiants / hameçonnage",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Compromission d’un accès de prestataire": {
+    "fr": "Compromission d’un accès de prestataire",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Compromission d’un compte par hameçonnage": {
+    "fr": "Compromission d’un compte par hameçonnage",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Condamnations pénales ou mesures de sûreté": {
+    "fr": "Condamnations pénales ou mesures de sûreté",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Configuration critique": {
+    "fr": "Configuration critique",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Configurez les préférences de votre": {
+    "fr": "Configurez les préférences de votre",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Conformité documentaire": {
+    "fr": "Conformité documentaire",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Connexion ComplianceForge": {
+    "fr": "Connexion ComplianceForge",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Conserver intégralement le texte officiel.": {
+    "fr": "Conserver intégralement le texte officiel.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Conserver intégralement les points 10 à 15.": {
+    "fr": "Conserver intégralement les points 10 à 15.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Conserver la numérotation officielle.": {
+    "fr": "Conserver la numérotation officielle.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Consignation sur support (Contrat de confidentialité)": {
+    "fr": "Consignation sur support (Contrat de confidentialité)",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Consolidation et pilotage": {
+    "fr": "Consolidation et pilotage",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Consultez et gérez les principaux paramètres de sécurité du compte.": {
+    "fr": "Consultez et gérez les principaux paramètres de sécurité du compte.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Contact téléphonique": {
+    "fr": "Contact téléphonique",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Conteneur .main-content introuvable": {
+    "fr": "Conteneur .main-content introuvable",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Contexte du formulaire": {
+    "fr": "Contexte du formulaire",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Contrôle des prestataires": {
+    "fr": "Contrôle des prestataires",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Contrôlez les notifications de la plateforme.": {
+    "fr": "Contrôlez les notifications de la plateforme.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Copie de l’extrait du Registre de Commerce et de Crédit Mobilier (RCCM) et / ou de l’Identifiant Fiscal Unique (IFU) de la société / structure": {
+    "fr": "Copie de l’extrait du Registre de Commerce et de Crédit Mobilier (RCCM) et / ou de l’Identifiant Fiscal Unique (IFU) de la société / structure",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Copie des clauses de confidentialité de l’hébergeur ou du propriétaire du cloud en cas de conservation des données": {
+    "fr": "Copie des clauses de confidentialité de l’hébergeur ou du propriétaire du cloud en cas de conservation des données",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Copie du Contrat de confidentialité signé entre le Responsable de Traitement et le sous-traitant ou les prestataires le cas échéant": {
+    "fr": "Copie du Contrat de confidentialité signé entre le Responsable de Traitement et le sous-traitant ou les prestataires le cas échéant",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Copie du NPI ou de la pièce d’identité (CIN ou Passeport) du Responsable de traitement de la société": {
+    "fr": "Copie du NPI ou de la pièce d’identité (CIN ou Passeport) du Responsable de traitement de la société",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Courrier postal": {
+    "fr": "Courrier postal",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Courrier électronique": {
+    "fr": "Courrier électronique",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Critique → Moyen": {
+    "fr": "Critique → Moyen",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Créez d'abord un traitement": {
+    "fr": "Créez d'abord un traitement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Créez et gérez les traitements de données personnelles": {
+    "fr": "Créez et gérez les traitements de données personnelles",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "DONNÉES COLLECTÉES ET TRAITÉES": {
+    "fr": "DONNÉES COLLECTÉES ET TRAITÉES",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Date de mise en œuvre du système": {
+    "fr": "Date de mise en œuvre du système",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Densité de l'interface": {
+    "fr": "Densité de l'interface",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Dernière évaluation": {
+    "fr": "Dernière évaluation",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Direction / responsable du projet": {
+    "fr": "Direction / responsable du projet",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Documents officiels préservés": {
+    "fr": "Documents officiels préservés",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Donnée sensible": {
+    "fr": "Donnée sensible",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Données collectées et traitées": {
+    "fr": "Données collectées et traitées",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Droits des personnes": {
+    "fr": "Droits des personnes",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Durée de conservation": {
+    "fr": "Durée de conservation",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Durée de conservation des images": {
+    "fr": "Durée de conservation des images",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Déclaration principale d'un traitement.": {
+    "fr": "Déclaration principale d'un traitement.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Délai de communication des informations en cas d’exercice du droit d’accès": {
+    "fr": "Délai de communication des informations en cas d’exercice du droit d’accès",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Déploiement des fonctionnalités": {
+    "fr": "Déploiement des fonctionnalités",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Développement": {
+    "fr": "Développement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Email DPO": {
+    "fr": "Email DPO",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Emplacement des caméras": {
+    "fr": "Emplacement des caméras",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Engagement de confidentialité signé entre les agents en charge du traitement des données personnelles et le Responsable de Traitement": {
+    "fr": "Engagement de confidentialité signé entre les agents en charge du traitement des données personnelles et le Responsable de Traitement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Engagement de conformité": {
+    "fr": "Engagement de conformité",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Enregistrer l'organisation": {
+    "fr": "Enregistrer l'organisation",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Enregistrer le profil APDP": {
+    "fr": "Enregistrer le profil APDP",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Enregistrer le traitement": {
+    "fr": "Enregistrer le traitement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Erreur HTTP": {
+    "fr": "Erreur HTTP",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Erreur chargement organisations ( )": {
+    "fr": "Erreur chargement organisations ( )",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Erreur chargement traitements ( )": {
+    "fr": "Erreur chargement traitements ( )",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Erreur de chargement": {
+    "fr": "Erreur de chargement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Erreur de chargement du traitement": {
+    "fr": "Erreur de chargement du traitement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Erreur génération APDP :": {
+    "fr": "Erreur génération APDP :",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Erreur scoring HTTP": {
+    "fr": "Erreur scoring HTTP",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Erreur traitements HTTP": {
+    "fr": "Erreur traitements HTTP",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Ex. Entreprise Démo": {
+    "fr": "Ex. Entreprise Démo",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Ex. Services numériques": {
+    "fr": "Ex. Services numériques",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Exfiltration ou modification non autorisée.": {
+    "fr": "Exfiltration ou modification non autorisée.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Exposition et affichage": {
+    "fr": "Exposition et affichage",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "FICHE N° 001 : VIDÉO SURVEILLANCE": {
+    "fr": "FICHE N° 001 : VIDÉO SURVEILLANCE",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "FINALITES DU SYSTÈME": {
+    "fr": "FINALITES DU SYSTÈME",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Feuille de route": {
+    "fr": "Feuille de route",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Fiabilité": {
+    "fr": "Fiabilité",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Finalité": {
+    "fr": "Finalité",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Finalité du transfert à l’étranger envisagé": {
+    "fr": "Finalité du transfert à l’étranger envisagé",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Finalité et base légale": {
+    "fr": "Finalité et base légale",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Finalités": {
+    "fr": "Finalités",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Fonction sécurité / conformité": {
+    "fr": "Fonction sécurité / conformité",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Fondations et structuration": {
+    "fr": "Fondations et structuration",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Formalités APDP": {
+    "fr": "Formalités APDP",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Formulaire APDP": {
+    "fr": "Formulaire APDP",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Formulaire Capteurs": {
+    "fr": "Formulaire Capteurs",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Formulaire Site Web": {
+    "fr": "Formulaire Site Web",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Formulaire Unique": {
+    "fr": "Formulaire Unique",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Formulaires officiels APDP": {
+    "fr": "Formulaires officiels APDP",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Fournisseur de services numériques": {
+    "fr": "Fournisseur de services numériques",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Français": {
+    "fr": "Français",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Garanties de protection des données": {
+    "fr": "Garanties de protection des données",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Gestion des incidents": {
+    "fr": "Gestion des incidents",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Gestion des notifications": {
+    "fr": "Gestion des notifications",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Gestion des privilèges": {
+    "fr": "Gestion des privilèges",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Gestion des sessions ouvertes.": {
+    "fr": "Gestion des sessions ouvertes.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Gestion des traitements de données personnelles": {
+    "fr": "Gestion des traitements de données personnelles",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Générer le PDF": {
+    "fr": "Générer le PDF",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Gérer les traitements de l'organisation": {
+    "fr": "Gérer les traitements de l'organisation",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Hameçonnage et compromission de comptes.": {
+    "fr": "Hameçonnage et compromission de comptes.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Hors délai": {
+    "fr": "Hors délai",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "IFU / RCCM": {
+    "fr": "IFU / RCCM",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Identification du traitement": {
+    "fr": "Identification du traitement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Identifiez l’ensemble des destinataires des données transférées": {
+    "fr": "Identifiez l’ensemble des destinataires des données transférées",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Identité du destinataire des données": {
+    "fr": "Identité du destinataire des données",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Identité du déclarant RCCM / IFU / CIP": {
+    "fr": "Identité du déclarant RCCM / IFU / CIP",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Impossible d'enregistrer l'organisation :": {
+    "fr": "Impossible d'enregistrer l'organisation :",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Impossible de calculer le score :": {
+    "fr": "Impossible de calculer le score :",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Impossible de charger le formulaire APDP.": {
+    "fr": "Impossible de charger le formulaire APDP.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Impossible de récupérer le traitement ( )": {
+    "fr": "Impossible de récupérer le traitement ( )",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Incidents de sécurité": {
+    "fr": "Incidents de sécurité",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Informations de l'organisation": {
+    "fr": "Informations de l'organisation",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Informations du compte": {
+    "fr": "Informations du compte",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Informations générales de l'entreprise": {
+    "fr": "Informations générales de l'entreprise",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Informations générales sur le traitement.": {
+    "fr": "Informations générales sur le traitement.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Informations relatives aux sous-traitants.": {
+    "fr": "Informations relatives aux sous-traitants.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Institutions étrangères": {
+    "fr": "Institutions étrangères",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Interconnexion de fichiers ou traitements.": {
+    "fr": "Interconnexion de fichiers ou traitements.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Intrusion persistante et accès aux fonctions critiques": {
+    "fr": "Intrusion persistante et accès aux fonctions critiques",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Intérêts vitaux": {
+    "fr": "Intérêts vitaux",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Je déclare sur l'honneur que les renseignements fournis sont exacts.": {
+    "fr": "Je déclare sur l'honneur que les renseignements fournis sont exacts.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Journal de sécurité": {
+    "fr": "Journal de sécurité",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Journalisation et surveillance": {
+    "fr": "Journalisation et surveillance",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Justification de la base légale": {
+    "fr": "Justification de la base légale",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "L'authentification serveur sera": {
+    "fr": "L'authentification serveur sera",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "LOCALISATION DU SYSTÈME": {
+    "fr": "LOCALISATION DU SYSTÈME",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "La modification du mot de passe": {
+    "fr": "La modification du mot de passe",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "La structure du PDF officiel n'est pas reconstruite ni": {
+    "fr": "La structure du PDF officiel n'est pas reconstruite ni",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Langue de l'interface": {
+    "fr": "Langue de l'interface",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Langue utilisée dans l'interface.": {
+    "fr": "Langue utilisée dans l'interface.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Les documents apparaîtront ici après leur génération.": {
+    "fr": "Les documents apparaîtront ici après leur génération.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Les documents générés à partir des données saisies seront disponibles ici.": {
+    "fr": "Les documents générés à partir des données saisies seront disponibles ici.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Les incidents enregistrés et leur état de délai seront affichés ici.": {
+    "fr": "Les incidents enregistrés et leur état de délai seront affichés ici.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Les principales fonctions de ComplianceForge": {
+    "fr": "Les principales fonctions de ComplianceForge",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Les événements de sécurité pourront": {
+    "fr": "Les événements de sécurité pourront",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Liaison et Réseau": {
+    "fr": "Liaison et Réseau",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Lieu d’installation du système de vidéosurveillance": {
+    "fr": "Lieu d’installation du système de vidéosurveillance",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "M+1 → M+3": {
+    "fr": "M+1 → M+3",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "M+4 → M+6": {
+    "fr": "M+4 → M+6",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "M+7 → M+10": {
+    "fr": "M+7 → M+10",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Mapping officiel APDP FORMULAIRE DE SIGNALEMENT Le PDF officiel est la source de vérité. Aucune modification de structure, texte ou pagination.": {
+    "fr": "Mapping officiel APDP FORMULAIRE DE SIGNALEMENT Le PDF officiel est la source de vérité. Aucune modification de structure, texte ou pagination.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Maturité": {
+    "fr": "Maturité",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Meilleur niveau actuel": {
+    "fr": "Meilleur niveau actuel",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Mention légale": {
+    "fr": "Mention légale",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Mentions écrites": {
+    "fr": "Mentions écrites",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Mesures prioritaires": {
+    "fr": "Mesures prioritaires",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Mission d'intérêt public": {
+    "fr": "Mission d'intérêt public",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Missions officielles du Délégué à la protection des données personnelles, points 1 à 9.": {
+    "fr": "Missions officielles du Délégué à la protection des données personnelles, points 1 à 9.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Mode d'affichage": {
+    "fr": "Mode d'affichage",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Modifier le mot de passe": {
+    "fr": "Modifier le mot de passe",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Mot de passe": {
+    "fr": "Mot de passe",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "NPI / RCCM": {
+    "fr": "NPI / RCCM",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Nature des traitements opérés par le destinataire des données": {
+    "fr": "Nature des traitements opérés par le destinataire des données",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Navigateur courant": {
+    "fr": "Navigateur courant",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Ne pas supprimer les obligations relatives à l'indépendance du DPD.": {
+    "fr": "Ne pas supprimer les obligations relatives à l'indépendance du DPD.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Ne pas supprimer les références au Livre Vème du code du numérique.": {
+    "fr": "Ne pas supprimer les références au Livre Vème du code du numérique.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Niveau calculé": {
+    "fr": "Niveau calculé",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Niveau cible": {
+    "fr": "Niveau cible",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Niveau de risque": {
+    "fr": "Niveau de risque",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Niveau des mesures de sécurité": {
+    "fr": "Niveau des mesures de sécurité",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Niveau d’exposition et fiabilité cyber": {
+    "fr": "Niveau d’exposition et fiabilité cyber",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Niveau initial → résiduel": {
+    "fr": "Niveau initial → résiduel",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Niveau le plus fréquent": {
+    "fr": "Niveau le plus fréquent",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Nom / Prénoms / Raison sociale": {
+    "fr": "Nom / Prénoms / Raison sociale",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Nom de l'organisation *": {
+    "fr": "Nom de l'organisation *",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Nom du traitement *": {
+    "fr": "Nom du traitement *",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Nom et prénoms": {
+    "fr": "Nom et prénoms",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Nom, Prénoms": {
+    "fr": "Nom, Prénoms",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Non": {
+    "fr": "Non",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Non configurée": {
+    "fr": "Non configurée",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Non renseigné": {
+    "fr": "Non renseigné",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Notifications activées": {
+    "fr": "Notifications activées",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Numérique": {
+    "fr": "Numérique",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Objectif :": {
+    "fr": "Objectif :",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Obligation légale": {
+    "fr": "Obligation légale",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Organisation *": {
+    "fr": "Organisation *",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Organisation associée": {
+    "fr": "Organisation associée",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Organisation par défaut": {
+    "fr": "Organisation par défaut",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Organisation utilisée par défaut": {
+    "fr": "Organisation utilisée par défaut",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Organisation « » enregistrée avec succès.": {
+    "fr": "Organisation « » enregistrée avec succès.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Oui": {
+    "fr": "Oui",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Ouvrir le PDF": {
+    "fr": "Ouvrir le PDF",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Page 1 /": {
+    "fr": "Page 1 /",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Paramètres d'évaluation": {
+    "fr": "Paramètres d'évaluation",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Paramètres utilisés pour l'évaluation": {
+    "fr": "Paramètres utilisés pour l'évaluation",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Partie prenante": {
+    "fr": "Partie prenante",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Parties prenantes": {
+    "fr": "Parties prenantes",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Personne à contacter par l’APDP en cas de besoin (DPO)": {
+    "fr": "Personne à contacter par l’APDP en cas de besoin (DPO)",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Personnes habilitées à y accéder": {
+    "fr": "Personnes habilitées à y accéder",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Phase 1": {
+    "fr": "Phase 1",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Phase 2": {
+    "fr": "Phase 2",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Phase 3": {
+    "fr": "Phase 3",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Plan d’installation des caméras": {
+    "fr": "Plan d’installation des caméras",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Plateforme GRC": {
+    "fr": "Plateforme GRC",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Plus faible niveau actuel": {
+    "fr": "Plus faible niveau actuel",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Politique de confidentialité": {
+    "fr": "Politique de confidentialité",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Politique de sécurité": {
+    "fr": "Politique de sécurité",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Politique de sécurité appliqué au traitement": {
+    "fr": "Politique de sécurité appliqué au traitement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Politique de sécurité appliquée au traitement": {
+    "fr": "Politique de sécurité appliquée au traitement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Prestataire technique": {
+    "fr": "Prestataire technique",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Preuve des dispositions prises pour satisfaire le droit à l’information préalable": {
+    "fr": "Preuve des dispositions prises pour satisfaire le droit à l’information préalable",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Preuve du recueil de consentement des personnes concernées en cas de transfert": {
+    "fr": "Preuve du recueil de consentement des personnes concernées en cas de transfert",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Principaux scénarios": {
+    "fr": "Principaux scénarios",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Principaux écarts": {
+    "fr": "Principaux écarts",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Principe de fonctionnement": {
+    "fr": "Principe de fonctionnement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Priorités": {
+    "fr": "Priorités",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Privilèges abusifs": {
+    "fr": "Privilèges abusifs",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Privé": {
+    "fr": "Privé",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Progression vers le niveau cible": {
+    "fr": "Progression vers le niveau cible",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Prénoms": {
+    "fr": "Prénoms",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Préparation de l'engagement officiel.": {
+    "fr": "Préparation de l'engagement officiel.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Préparer": {
+    "fr": "Préparer",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Prévention, recherche ou poursuite d'une infraction": {
+    "fr": "Prévention, recherche ou poursuite d'une infraction",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Rapprochement / interconnexion": {
+    "fr": "Rapprochement / interconnexion",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Recevoir les alertes": {
+    "fr": "Recevoir les alertes",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Recevoir les alertes importantes": {
+    "fr": "Recevoir les alertes importantes",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Registre des traitements": {
+    "fr": "Registre des traitements",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Registre · Formalités APDP · Sécurité · Violations": {
+    "fr": "Registre · Formalités APDP · Sécurité · Violations",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Renseigner les informations de l'entreprise": {
+    "fr": "Renseigner les informations de l'entreprise",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Renseignez les informations nécessaires à la préparation": {
+    "fr": "Renseignez les informations nécessaires à la préparation",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Reporting · Gouvernance DPO": {
+    "fr": "Reporting · Gouvernance DPO",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Représentant légal - Adresse": {
+    "fr": "Représentant légal - Adresse",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Représentant légal - Contacts": {
+    "fr": "Représentant légal - Contacts",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Représentant légal - NPI": {
+    "fr": "Représentant légal - NPI",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Représentant légal - Nom / Prénoms": {
+    "fr": "Représentant légal - Nom / Prénoms",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Responsable conformité fictif": {
+    "fr": "Responsable conformité fictif",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Responsable de traitement fictif": {
+    "fr": "Responsable de traitement fictif",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Responsable du traitement": {
+    "fr": "Responsable du traitement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Risques identifiés": {
+    "fr": "Risques identifiés",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Réessayer": {
+    "fr": "Réessayer",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Réf.": {
+    "fr": "Réf.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Référentiel des documents APDP utilisés par ComplianceForge.": {
+    "fr": "Référentiel des documents APDP utilisés par ComplianceForge.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Réinitialiser": {
+    "fr": "Réinitialiser",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Résolution du capteur": {
+    "fr": "Résolution du capteur",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Résultat :": {
+    "fr": "Résultat :",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Rôle": {
+    "fr": "Rôle",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Salariés": {
+    "fr": "Salariés",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Score de conformité": {
+    "fr": "Score de conformité",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Score de risque": {
+    "fr": "Score de risque",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Se reconnecter": {
+    "fr": "Se reconnecter",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Secteur d'activité": {
+    "fr": "Secteur d'activité",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Sensibilisation au hameçonnage": {
+    "fr": "Sensibilisation au hameçonnage",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Sensibilisation des personnes habilitées au respect de la vie privée et à la politique de sécurité": {
+    "fr": "Sensibilisation des personnes habilitées au respect de la vie privée et à la politique de sécurité",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Sensibilité des données": {
+    "fr": "Sensibilité des données",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Service ou personne auprès duquel s’exerce le droit d’accès": {
+    "fr": "Service ou personne auprès duquel s’exerce le droit d’accès",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Service responsable": {
+    "fr": "Service responsable",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Session actuelle": {
+    "fr": "Session actuelle",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Session terminée": {
+    "fr": "Session terminée",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Situation actuelle → cible": {
+    "fr": "Situation actuelle → cible",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Sous-traitance / transferts": {
+    "fr": "Sous-traitance / transferts",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Sous-traitance · Droits · Transferts · Documentation": {
+    "fr": "Sous-traitance · Droits · Transferts · Documentation",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Standard": {
+    "fr": "Standard",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Structuration / rapprochement / interconnexion": {
+    "fr": "Structuration / rapprochement / interconnexion",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Suite des missions officielles du Délégué à la protection des données personnelles, points 10 à 15, suivie des conditions et moyens nécessaires à l'exercice des missions.": {
+    "fr": "Suite des missions officielles du Délégué à la protection des données personnelles, points 10 à 15, suivie des conditions et moyens nécessaires à l'exercice des missions.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Suivi du workflow de notification sous 72 heures.": {
+    "fr": "Suivi du workflow de notification sous 72 heures.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Suivre le workflow de notification": {
+    "fr": "Suivre le workflow de notification",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Sécurisation des configurations": {
+    "fr": "Sécurisation des configurations",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Sécurité des données": {
+    "fr": "Sécurité des données",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Sélectionner un traitement": {
+    "fr": "Sélectionner un traitement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Sélectionner une organisation": {
+    "fr": "Sélectionner une organisation",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Sélectionnez d'abord un traitement dans le registre": {
+    "fr": "Sélectionnez d'abord un traitement dans le registre",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Sélectionnez d'abord une organisation": {
+    "fr": "Sélectionnez d'abord une organisation",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Sélectionnez l'organisation et le traitement": {
+    "fr": "Sélectionnez l'organisation et le traitement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Sélectionnez un formulaire pour préparer les informations": {
+    "fr": "Sélectionnez un formulaire pour préparer les informations",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Sélectionnez un traitement": {
+    "fr": "Sélectionnez un traitement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Sûreté de l'État, défense ou sécurité publique": {
+    "fr": "Sûreté de l'État, défense ou sécurité publique",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Traitement #": {
+    "fr": "Traitement #",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Traitement d’image": {
+    "fr": "Traitement d’image",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Traitement « » enregistré avec succès.": {
+    "fr": "Traitement « » enregistré avec succès.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Traitement évalué": {
+    "fr": "Traitement évalué",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Traitements liés à un site web.": {
+    "fr": "Traitements liés à un site web.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Traitements utilisant des capteurs.": {
+    "fr": "Traitements utilisant des capteurs.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Transfert de données personnelles.": {
+    "fr": "Transfert de données personnelles.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Très élevé → Faible": {
+    "fr": "Très élevé → Faible",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Très élevé → Moyen": {
+    "fr": "Très élevé → Moyen",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Type de compte": {
+    "fr": "Type de compte",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Téléphone / email": {
+    "fr": "Téléphone / email",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Utilisateur": {
+    "fr": "Utilisateur",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Utilisateur négligent ou malveillant": {
+    "fr": "Utilisateur négligent ou malveillant",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Utilisateurs de ComplianceForge": {
+    "fr": "Utilisateurs de ComplianceForge",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Utilisation de systèmes experts": {
+    "fr": "Utilisation de systèmes experts",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Veuillez préciser la nature des traitements opérés par le destinataire des données": {
+    "fr": "Veuillez préciser la nature des traitements opérés par le destinataire des données",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Violations de données": {
+    "fr": "Violations de données",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Visualisation des images en temps réel": {
+    "fr": "Visualisation des images en temps réel",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Voir l'analyse": {
+    "fr": "Voir l'analyse",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Votre session ComplianceForge": {
+    "fr": "Votre session ComplianceForge",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Vous avez été déconnecté": {
+    "fr": "Vous avez été déconnecté",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Vue générale de votre conformité GRC": {
+    "fr": "Vue générale de votre conformité GRC",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Vérification du remplissage du formulaire de déclaration": {
+    "fr": "Vérification du remplissage du formulaire de déclaration",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "activée lors de l'intégration": {
+    "fr": "activée lors de l'intégration",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "apdp-field apdp-field-auto": {
+    "fr": "apdp-field apdp-field-auto",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "application/json": {
+    "fr": "application/json",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "après traitement, aucun des six risques ne demeure à un niveau": {
+    "fr": "après traitement, aucun des six risques ne demeure à un niveau",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "avant de préparer un formulaire APDP.": {
+    "fr": "avant de préparer un formulaire APDP.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "background .15s ease,": {
+    "fr": "background .15s ease,",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "background: linear-gradient(": {
+    "fr": "background: linear-gradient(",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "background: rgba(": {
+    "fr": "background: rgba(",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "border-color .15s ease,": {
+    "fr": "border-color .15s ease,",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "box-shadow 0.15s ease,": {
+    "fr": "box-shadow 0.15s ease,",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "box-shadow:": {
+    "fr": "box-shadow:",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "choice.label ??": {
+    "fr": "choice.label ??",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "choice.value ??": {
+    "fr": "choice.value ??",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "cible de 4 grâce à la centralisation, l'automatisation, le suivi": {
+    "fr": "cible de 4 grâce à la centralisation, l'automatisation, le suivi",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "concernés par la formalité APDP.": {
+    "fr": "concernés par la formalité APDP.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "critique ou très élevé. Les risques résiduels restent toutefois": {
+    "fr": "critique ou très élevé. Les risques résiduels restent toutefois",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "côté serveur.": {
+    "fr": "côté serveur.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "d'un système d'authentification.": {
+    "fr": "d'un système d'authentification.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "dans le registre.": {
+    "fr": "dans le registre.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "dans votre espace de travail.": {
+    "fr": "dans votre espace de travail.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "de ComplianceForge.": {
+    "fr": "de ComplianceForge.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "de conformité et de pilotage.": {
+    "fr": "de conformité et de pilotage.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "de conformité et de risque.": {
+    "fr": "de conformité et de risque.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "de l'application.": {
+    "fr": "de l'application.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "de l'organisation.": {
+    "fr": "de l'organisation.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "de la plateforme.": {
+    "fr": "de la plateforme.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "de votre espace.": {
+    "fr": "de votre espace.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "display: none": {
+    "fr": "display: none",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "domaines analysés": {
+    "fr": "domaines analysés",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "du Formulaire Unique APDP.": {
+    "fr": "du Formulaire Unique APDP.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "du traitement.": {
+    "fr": "du traitement.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "enregistrerParametresUtilisateur()": {
+    "fr": "enregistrerParametresUtilisateur()",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "espace ComplianceForge.": {
+    "fr": "espace ComplianceForge.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "est actuellement active.": {
+    "fr": "est actuellement active.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "et indiquez si elles sont sensibles.": {
+    "fr": "et indiquez si elles sont sensibles.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "et le pilotage apportés par ComplianceForge.": {
+    "fr": "et le pilotage apportés par ComplianceForge.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "form-actions full": {
+    "fr": "form-actions full",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "form-group full": {
+    "fr": "form-group full",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "form-message error": {
+    "fr": "form-message error",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "form-message success": {
+    "fr": "form-message success",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "grid-template-columns:": {
+    "fr": "grid-template-columns:",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "importantes de conformité.": {
+    "fr": "importantes de conformité.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "informations affichées.": {
+    "fr": "informations affichées.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "input, textarea, select": {
+    "fr": "input, textarea, select",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "input[ ]": {
+    "fr": "input[ ]",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "input[ ], textarea[ ], select[ ]": {
+    "fr": "input[ ], textarea[ ], select[ ]",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "input[ ]:checked": {
+    "fr": "input[ ]:checked",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "l'interface ComplianceForge.": {
+    "fr": "l'interface ComplianceForge.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "label[ ]": {
+    "fr": "label[ ]",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "licéite_legitimite": {
+    "fr": "licéite_legitimite",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "modifiée.": {
+    "fr": "modifiée.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "navigate('incidents')": {
+    "fr": "navigate('incidents')",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "navigate('organisation')": {
+    "fr": "navigate('organisation')",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "niveau cible": {
+    "fr": "niveau cible",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "non": {
+    "fr": "non",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "nécessite un mécanisme d'authentification": {
+    "fr": "nécessite un mécanisme d'authentification",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "oui": {
+    "fr": "oui",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "pour cette session.": {
+    "fr": "pour cette session.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "réduire les écarts de conformité et atteindre un niveau de maturité": {
+    "fr": "réduire les écarts de conformité et atteindre un niveau de maturité",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "serveur sera activée.": {
+    "fr": "serveur sera activée.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "soumis à un suivi régulier.": {
+    "fr": "soumis à un suivi régulier.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "soussigné_prenom_nom": {
+    "fr": "soussigné_prenom_nom",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "standard": {
+    "fr": "standard",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "traitement(s) disponible(s).": {
+    "fr": "traitement(s) disponible(s).",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "transform 0.15s ease,": {
+    "fr": "transform 0.15s ease,",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "transition:": {
+    "fr": "transition:",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "utilisée pour accéder à la plateforme.": {
+    "fr": "utilisée pour accéder à la plateforme.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Écrit": {
+    "fr": "Écrit",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Élèves et étudiants": {
+    "fr": "Élèves et étudiants",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Équipe informatique": {
+    "fr": "Équipe informatique",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "État actuel des processus de conformité APDP et niveau cible ComplianceForge.": {
+    "fr": "État actuel des processus de conformité APDP et niveau cible ComplianceForge.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "État de l'authentification multifacteur.": {
+    "fr": "État de l'authentification multifacteur.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Évaluation de la conformité et du risque": {
+    "fr": "Évaluation de la conformité et du risque",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Évaluation de la conformité et du risque des traitements.": {
+    "fr": "Évaluation de la conformité et du risque des traitements.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "écarts prioritaires": {
+    "fr": "écarts prioritaires",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "être historisés lorsque l'authentification": {
+    "fr": "être historisés lorsque l'authentification",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "← Retour au tableau de bord": {
+    "fr": "← Retour au tableau de bord",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "● Actif": {
+    "fr": "● Actif",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "● Session active": {
+    "fr": "● Session active",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "☀️ Clair": {
+    "fr": "☀️ Clair",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "⚙️ Paramètres": {
+    "fr": "⚙️ Paramètres",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "⚠ Aucun traitement sélectionné": {
+    "fr": "⚠ Aucun traitement sélectionné",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "✓ Enregistrer": {
+    "fr": "✓ Enregistrer",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "✓ Enregistrer les paramètres": {
+    "fr": "✓ Enregistrer les paramètres",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "✓ Paramètres enregistrés.": {
+    "fr": "✓ Paramètres enregistrés.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "✓ Profil enregistré avec succès.": {
+    "fr": "✓ Profil enregistré avec succès.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "🇪🇸 Español": {
+    "fr": "🇪🇸 Español",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "🇫🇷 Français": {
+    "fr": "🇫🇷 Français",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "🇬🇧 English": {
+    "fr": "🇬🇧 English",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "🇵🇹 Português": {
+    "fr": "🇵🇹 Português",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "🌙 Sombre": {
+    "fr": "🌙 Sombre",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "🏠 Tableau de bord": {
+    "fr": "🏠 Tableau de bord",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "🏢 Organisation": {
+    "fr": "🏢 Organisation",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "📊 Analyse des écarts": {
+    "fr": "📊 Analyse des écarts",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "📋 Registre des traitements": {
+    "fr": "📋 Registre des traitements",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "🔐 Sécurité": {
+    "fr": "🔐 Sécurité",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "🚨 Incidents / Violations": {
+    "fr": "🚨 Incidents / Violations",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "🧾 Formulaires APDP": {
+    "fr": "🧾 Formulaires APDP",
+    "en": "",
+    "es": "",
+    "pt": ""
+  }
+}

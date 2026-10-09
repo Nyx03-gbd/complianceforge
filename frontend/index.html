@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ComplianceForge</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- Bouton principal ComplianceForge -->
+<button
+    type="button"
+    id="sidebar-toggle"
+    class="sidebar-toggle"
+    aria-label="Ouvrir la navigation ComplianceForge"
+    aria-expanded="false"
+>
+    <span class="cf-logo-button" aria-hidden="true">
+        <svg viewBox="0 0 64 64" role="img">
+            <path
+                class="cf-logo-shield"
+                d="M32 4 L54 12 V29 C54 43 45 54 32 60 C19 54 10 43 10 29 V12 Z"
+            />
+            <path
+                class="cf-logo-inner"
+                d="M32 13 L45 18 V29 C45 38 40 45 32 50 C24 45 19 38 19 29 V18 Z"
+            />
+            <text
+                x="32"
+                y="35"
+                text-anchor="middle"
+                class="cf-logo-text"
+            >CF</text>
+        </svg>
+    </span>
+</button>
+
+<!-- Fond de fermeture de la navigation -->
+<div
+    class="sidebar-overlay"
+    id="sidebar-overlay"
+    aria-hidden="true"
+></div>
+
+<div class="app">
+
+    <aside class="sidebar">
+
+        <div class="brand">
+            <div class="brand-mark">CF</div>
+            <div>
+                <strong>ComplianceForge</strong>
+                <span>Plateforme GRC</span>
+            </div>
+        </div>
+
+        <nav class="menu">
+
+            <a href="#" class="menu-item nav-item active" data-page="dashboard">
+                <span>🏠</span>
+                <span>Tableau de bord</span>
+            </a>
+
+            <div class="menu-section">ORGANISATION</div>
+
+            <a href="#" class="menu-item nav-item" data-page="organisation">
+                <span>🏢</span>
+                <span>Organisation</span>
+            </a>
+
+            <a href="#" class="menu-item nav-item" data-page="profil">
+                <span>👤</span>
+                <span>Profil APDP</span>
+            </a>
+
+            <div class="menu-section">CONFORMITÉ</div>
+
+            <a href="#" class="menu-item nav-item" data-page="registre">
+                <span>📋</span>
+                <span>Registre des traitements</span>
+            </a>
+
+            <a href="#" class="menu-item nav-item" data-page="formulaires">
+                <span>📄</span>
+                <span>Formulaires APDP</span>
+            </a>
+
+            <a href="#" class="menu-item nav-item" data-page="conformite">
+                <span>📊</span>
+                <span>Analyse des écarts</span>
+            </a>
+
+            <div class="menu-section">RISQUES & INCIDENTS</div>
+
+            <a href="#" class="menu-item nav-item" data-page="risques">
+                <span>🛡️</span>
+                <span>Risques / EBIOS RM</span>
+            </a>
+
+            <a href="#" class="menu-item nav-item" data-page="incidents">
+                <span>⚠️</span>
+                <span>Incidents / Violations</span>
+            </a>
+
+            <div class="menu-section">DOCUMENTS</div>
+
+            <a href="#" class="menu-item nav-item" data-page="documents">
+                <span>📁</span>
+                <span>Documents générés</span>
+            </a>
+
+        </nav>
+
+        <div class="sidebar-footer">
+        </div>
+
+    </aside>
+
+    <main class="main">
+
+        <header class="topbar">
+            <div>
+                <h1 class="topbar-title">Tableau de bord</h1>
+                <p class="topbar-subtitle">Vue générale de votre conformité GRC</p>
+            </div>
+
+            <div class="topbar-actions">
+
+    <div class="topbar-status">
+        <span class="status-dot"></span>
+        <span>API connectée</span>
+    </div>
+
+    <div class="user-menu-wrapper">
+
+        <button
+            type="button"
+            class="user-menu-button"
+            id="user-menu-button"
+            aria-label="Ouvrir le menu utilisateur"
+            aria-expanded="false"
+        >
+            <span class="user-avatar">Y</span>
+
+            <span class="user-menu-label">
+                <strong>Utilisateur</strong>
+                <small>Administrateur</small>
+            </span>
+
+            <span class="user-menu-chevron">⌄</span>
+        </button>
+
+        <div
+            class="user-menu"
+            id="user-menu"
+            aria-hidden="true"
+        >
+            <div class="user-menu-header">
+                <span class="user-avatar user-avatar-large">Y</span>
+                <div>
+                    <strong>Utilisateur</strong>
+                    <small>Administrateur</small>
+                </div>
+            </div>
+
+            <button type="button" class="user-menu-item">
+                👤 Mon profil
+            </button>
+
+            <button type="button" class="user-menu-item">
+                ⚙️ Paramètres
+            </button>
+
+            <button type="button" class="user-menu-item">
+                🔐 Sécurité
+            </button>
+
+        </div>
+
+    </div>
+
+</div>
+    </header>
+
+        <section class="content main-content">
+
+            <div class="welcome">
+                <div>
+                    <h2>Bienvenue dans ComplianceForge</h2>
+                    <p>
+                        Centralisez vos informations d'organisation,
+                        traitements, formalités APDP, risques et incidents.
+                    </p>
+                </div>
+            </div>
+
+            <div class="cards">
+
+                <div class="card">
+                    <span class="card-icon">🏢</span>
+                    <div>
+                        <span class="card-label">Organisation</span>
+                        <strong id="organisation-count">—</strong>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <span class="card-icon">📋</span>
+                    <div>
+                        <span class="card-label">Traitements</span>
+                        <strong id="traitement-count">—</strong>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <span class="card-icon">⚠️</span>
+                    <div>
+                        <span class="card-label">Incidents</span>
+                        <strong id="incident-count">—</strong>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <span class="card-icon">⏱️</span>
+                    <div>
+                        <span class="card-label">Hors délai</span>
+                        <strong id="incident-overdue">—</strong>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="section-header">
+                <div>
+                    <h2>Accès rapides</h2>
+                    <p>Les principales fonctions de ComplianceForge</p>
+                </div>
+            </div>
+
+            <div class="quick-actions">
+
+                <button class="quick-card" onclick="navigate('organisation')">
+                    <span>🏢</span>
+                    <strong>Configurer l'organisation</strong>
+                    <small>Renseigner les informations de l'entreprise</small>
+                </button>
+
+                <button class="quick-card" onclick="navigate('formulaires')">
+                    <span>📄</span>
+                    <strong>Formulaires APDP</strong>
+                    <small>Accéder aux formulaires et annexes</small>
+                </button>
+
+                <button class="quick-card" onclick="navigate('registre')">
+                    <span>📋</span>
+                    <strong>Registre des traitements</strong>
+                    <small>Gérer les traitements de l'organisation</small>
+                </button>
+
+                <button class="quick-card" onclick="navigate('incidents')">
+                    <span>⚠️</span>
+                    <strong>Déclarer un incident</strong>
+                    <small>Suivre le workflow de notification</small>
+                </button>
+
+            </div>
+
+        </section>
+
+    </main>
+
+</div>
+
+<script>window.API_BASE = "https://api.complianceforge.test";</script>
+<script src="app.js"></script>
+
+<script>
+(function () {
+
+    function construireDashboardStatique() {
+
+        const main = document.querySelector(".main-content");
+        const cards = main?.querySelector(".cards");
+
+        if (!main || !cards) {
+            return;
+        }
+
+        if (document.getElementById("dashboard-static-bottom")) {
+            return;
+        }
+
+        const oldHeader = main.querySelector(".section-header");
+        const oldQuickActions = main.querySelector(".quick-actions");
+
+        if (!oldQuickActions) {
+            return;
+        }
+
+        /* --------------------------------------------------------
+           Conteneur principal
+           -------------------------------------------------------- */
+
+        const bottom = document.createElement("div");
+        bottom.id = "dashboard-static-bottom";
+        bottom.className = "dashboard-static-bottom";
+
+        /* --------------------------------------------------------
+           Analyse / Scoring
+           -------------------------------------------------------- */
+
+        const scoring = document.createElement("section");
+        scoring.className = "dashboard-static-scoring";
+
+        scoring.innerHTML = `
+            <div class="dashboard-static-scoring-header">
+                <h2>📊 Analyse / Scoring</h2>
+                <p>Évaluation de la conformité et du risque des traitements.</p>
+            </div>
+
+            <div class="dashboard-static-score-grid">
+
+                <div class="dashboard-static-score-card">
+                    <span>Score de conformité</span>
+                    <strong id="dashboard-score-conformite">—</strong>
+                </div>
+
+                <div class="dashboard-static-score-card">
+                    <span>Score de risque</span>
+                    <strong id="dashboard-score-risque">—</strong>
+                </div>
+
+                <div class="dashboard-static-score-card">
+                    <span>Niveau de risque</span>
+                    <strong id="dashboard-niveau-risque">—</strong>
+                </div>
+
+                <div class="dashboard-static-score-card">
+                    <span>Traitement évalué</span>
+                    <strong id="dashboard-traitement-score">—</strong>
+                </div>
+
+            </div>
+        `;
+
+        /* --------------------------------------------------------
+           Accès rapides
+           -------------------------------------------------------- */
+
+        const quick = document.createElement("section");
+        quick.className = "dashboard-static-quick";
+
+        const quickHeader = document.createElement("div");
+        quickHeader.className = "dashboard-static-quick-header";
+
+        quickHeader.innerHTML = `
+            <h2>⚡ Accès rapides</h2>
+            <p>Les principales fonctions de ComplianceForge</p>
+        `;
+
+        const quickGrid = document.createElement("div");
+        quickGrid.className = "dashboard-static-quick-grid";
+
+        oldQuickActions
+            .querySelectorAll(".quick-card")
+            .forEach(card => {
+                quickGrid.appendChild(card.cloneNode(true));
+            });
+
+        quick.appendChild(quickHeader);
+        quick.appendChild(quickGrid);
+
+        /* --------------------------------------------------------
+           Assemblage
+           -------------------------------------------------------- */
+
+        bottom.appendChild(scoring);
+        bottom.appendChild(quick);
+
+        /* Retirer l'ancienne zone Accès rapides */
+        if (oldHeader) {
+            oldHeader.remove();
+        }
+
+        oldQuickActions.remove();
+
+        /* Insérer après les 4 cartes */
+        cards.insertAdjacentElement("afterend", bottom);
+    }
+
+    function masquerMenuUtilisateurAuDemarrage() {
+
+        const menu = document.getElementById("user-menu");
+
+        if (!menu) {
+            return;
+        }
+
+        menu.setAttribute("aria-hidden", "true");
+        menu.style.display = "";
+    }
+
+    function initialiserDashboardFinal() {
+
+        masquerMenuUtilisateurAuDemarrage();
+        construireDashboardStatique();
+    }
+
+    if (document.readyState === "loading") {
+        document.addEventListener(
+            "DOMContentLoaded",
+            initialiserDashboardFinal
+        );
+    } else {
+        initialiserDashboardFinal();
+    }
+
+})();
+</script>
+
+<script src="logout.js"></script>
+<script src="routes.js"></script>
+</body>
+</html>

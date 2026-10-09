@@ -1,0 +1,601 @@
+0001. )
+ )
+ ) {
+ return new Date().toISOString().slice(0, 10);
+ }
+
+ }
+
+
+ const traitementPaths = {
+ nom_traitement: [
+0002. ) {
+   apdpApplyConditionalRules();
+ }
+
+ normalizeExclusiveAPDPChoices();
+
+ /*
+  * Plus de pagination entre les rubriques.
+  */
+ pageNumber.textContent =
+0003. ) {
+ return value;
+ }
+
+ }
+
+ }
+
+ /*
+  * La date de dÃ©claration peut Ãªtre proposÃ©e automatiquement.
+  * Elle n'est ajoutÃ©e que si le champ est explicitement un champ
+  * de date.
+  */
+ if (
+ declarationName ===
+0004. ).value,
+
+                    notifications:
+                        document.getElementById(
+0005. );
+
+                if (!button) {
+                    return;
+                }
+
+                /*
+                 * Ne pas intercepter la dÃ©connexion.
+                 */
+                if (
+                    button.id ===
+0006. );
+
+            }
+        );
+
+
+        /* ------------------------------------------------------
+           RETOUR DASHBOARD
+           ------------------------------------------------------ */
+
+        document.getElementById(
+0007. );
+
+        if (!items.length) {
+            return;
+        }
+
+        /*
+         * Ajouter des identifiants stables.
+         */
+
+        if (items[0]) {
+            items[0].id =
+0008. );
+
+        settingsButton.parentNode.replaceChild(
+            cleanButton,
+            settingsButton
+        );
+
+        /*
+         * Un seul clic propre.
+         */
+
+        cleanButton.addEventListener(
+0009. );
+
+ pageContainer.innerHTML = renderedGroups;
+
+ restorePageValues();
+
+ /*
+  * Les champs masquÃ©s/automatiques ne doivent
+  * rÃ©server aucun espace.
+  */
+ pageContainer
+   .querySelectorAll(
+0010. );
+        }
+    }
+
+    /*
+     * Ajout du bouton de dÃ©connexion
+     */
+
+    function ajouterDeconnexion() {
+
+        const menu =
+            document.getElementById(
+0011. ,
+
+            /* Incidents */
+0012. ,
+
+            /* Organisation */
+0013. ,
+
+            /* Risques */
+0014. ,
+
+            /* Traitements */
+0015. ,
+
+ personnes_adherents:
+0016. ,
+
+ personnes_autres:
+0017. ,
+
+ personnes_clients:
+0018. ,
+
+ personnes_eleves_etudiants:
+0019. ,
+
+ personnes_patients:
+0020. ,
+
+ personnes_usagers:
+0021. ,
+
+ personnes_visiteurs:
+0022. ,
+                        lang
+                    );
+
+                /*
+                 * Traduire immÃ©diatement toute la page.
+                 */
+                if (
+                    typeof window.complianceForgeTranslatePage ===
+0023. ,
+                    language
+                );
+
+            /*
+             * Menu utilisateur.
+             */
+
+            const menu =
+                document.getElementById(
+0024. ,
+                    notifications: true
+                };
+
+                sauvegarderParametres(
+                    defaults
+                );
+
+                document.getElementById(
+0025. ;
+
+
+ /* Champs dÃ©jÃ  connus : on conserve le mÃ©canisme
+ de prÃ©remplissage existant s'il est disponible. */
+ if (
+ typeof getAPDPAutoValue ===
+0026. ;
+
+   });
+
+ /*
+  * RÃ©duction des espacements entre les rubriques.
+  */
+ pageContainer
+   .querySelectorAll(
+0027. ;
+                }
+            }
+
+            /*
+             * Bouton de dÃ©connexion.
+             */
+
+            const logout =
+                document.getElementById(
+0028. ;
+            }
+        };
+
+
+    /*
+     * Quand une nouvelle page est affichÃ©e,
+     * on la traduit aprÃ¨s son rendu.
+     */
+
+    if (
+        typeof window.navigate ===
+0029. ;
+     }
+
+   });
+
+ /*
+  * Toutes les rubriques sont dans le mÃªme flux.
+  */
+ pageContainer
+   .querySelectorAll(
+0030. ANNEXE 4 : TRANSFERT
+0031. AccessibilitÃ© au sous-traitant
+0032. AccÃ¨s aux images Ã  distance
+0033. AccÃ¨s logique / sauvegarde et protection des enregistrements
+0034. AccÃ¨s physique au poste central de surveillance
+0035. AccÃ©der au registre des traitements
+0036. AccÃ©der aux incidents et violations
+0037. AccÃ©der Ã  la page Organisation
+0038. Adresse de l'organisation
+0039. Adresse du reprÃ©sentant lÃ©gal
+0040. Adresse postale
+0041. Adresse Ã©lectronique
+0042. Analyse des Ã©carts
+0043. Aucun Profil APDP disponible pour cette organisation.
+0044. Aucun traitement n'est enregistrÃ© pour cette organisation.
+0045. Aucune information APDP existante pour ce traitement.
+0046. Aucune page disponible dans le formulaire.
+0047. Autres modalitÃ©s dâinformation des personnes concernÃ©es
+0048. Autres moyens de contact
+0049. Base Juridique du traitement
+0050. Base justifiant la communication
+0051. CARACTERISTIQUES ET FONCTIONNALITÃS DU SYSTEME
+0052. CONSENTEMENT A LA TRANSMISSION PAR VOIE ELECTRONIQUE
+0053. CaractÃ©ristiques techniques des Ã©quipements utilisÃ©s
+0054. Communication / transmission
+0055. Configurez les prÃ©fÃ©rences de votre espace ComplianceForge.
+0056. Conserver intÃ©gralement le texte officiel.
+0057. Conserver intÃ©gralement les points 10 Ã  15.
+0058. Conserver la numÃ©rotation officielle.
+0059. Conserver le pied de page APDP.
+0060. Conserver les obligations du responsable de traitement ou du sous-traitant.
+0061. Conserver les paragraphes relatifs aux ressources et moyens.
+0062. Consignation sur support (Contrat de confidentialitÃ©)
+0063. Consulter les Ã©lÃ©ments hors dÃ©lai
+0064. Consultez et gÃ©rez les principaux paramÃ¨tres de sÃ©curitÃ© du compte.
+0065. Contenu de l'information
+0066. Copie de lâextrait du Registre de Commerce et de CrÃ©dit Mobilier (RCCM) et / ou de lâIdentifiant Fiscal Unique (IFU) de la sociÃ©tÃ© / structure
+0067. Copie des clauses de confidentialitÃ© de lâhÃ©bergeur ou du propriÃ©taire du cloud en cas de conservation des donnÃ©es
+0068. Copie du Contrat de confidentialitÃ© signÃ© entre le Responsable de Traitement et le sous-traitant ou les prestataires le cas Ã©chÃ©ant
+0069. Copie du NPI ou de la piÃ¨ce dâidentitÃ© (CIN ou Passeport) du Responsable de traitement de la sociÃ©tÃ©
+0070. DE TRAITEMENTS PAR CAPTEURS (IMAGE, VOIX, DONNEES BIOMETRIQUES)
+0071. DELEGUE A LA PROTECTION DES DONNEES PERSONNELLES
+0072. DONNÃES COLLECTÃES ET TRAITÃES
+0073. DROIT DES PERSONNES CONCERNEES
+0074. DROITS DES PERSONNES FILMEES
+0075. Date de mise en Åuvre du systÃ¨me
+0076. Description de l'activitÃ©
+0077. Destinataires situÃ©s au BÃ©nin
+0078. Destinataires situÃ©s dans un pays de la CEDEAO
+0079. DonnÃ©es collectÃ©es et traitÃ©es
+0080. DurÃ©e de conservation des images
+0081. DÃ©claration sur l'honneur
+0082. DÃ©crivez la finalitÃ© du traitement
+0083. DÃ©lai de communication des informations en cas dâexercice du droit dâaccÃ¨s
+0084. ENGAGEMENT DE RESPECT DES OBLIGATIONS INCOMBANT AU
+0085. ENGAGEMENT DU RESPONSABLE DU TRAITEMENT
+0086. Emplacement des camÃ©ras
+0087. Engagement de confidentialitÃ© signÃ© entre les agents en charge du traitement des donnÃ©es personnelles et le Responsable de Traitement
+0088. Engagement du responsable du traitement
+0089. Enregistrer l'organisation
+0090. Enregistrer le profil APDP
+0091. Enregistrer le traitement
+0092. Erreur chargement formulaire APDP:
+0093. Erreur chargement organisations APDP :
+0094. Erreur chargement traitements APDP :
+0095. Erreur lors de l'enregistrement du profil APDP.
+0096. Erreur lors de l'enregistrement du traitement.
+0097. Erreur lors de la crÃ©ation de l'organisation.
+0098. Erreur organisations :
+0099. Erreur traitement :
+0100. Ex. Direction des Ressources Humaines
+0101. Ex. Gestion des ressources humaines
+0102. Expliquez la base lÃ©gale retenue
+0103. Exposition et affichage
+0104. FICHE NÂ° 001 : VIDÃO SURVEILLANCE
+0105. FINALITES DU SYSTÃME
+0106. FORMULAIRE COMPLEMENTAIRE POUR LA MISE EN OEUVRE
+0107. FORMULAIRE COMPLEMENTAIRE POUR LA MISE EN OEUVRE DE TRAITEMENTS SUR SITE WEB
+0108. FORMULAIRE DE SIGNALEMENT
+0109. FORMULAIRE DâENGAGEMENT DE CONFORMITE DE TRAITEMENTS DE DONNEES A CARACTERE PERSONNEL
+0110. FinalitÃ© de la communication
+0111. FinalitÃ© du transfert Ã  lâÃ©tranger envisagÃ©
+0112. Fondement juridique au transfert
+0113. Formulaires APDP
+0114. Garanties de protection des donnÃ©es
+0115. Gestion des traitements de donnÃ©es personnelles
+0116. GÃ©rez les informations associÃ©es Ã  votre compte utilisateur.
+0117. HONNEUR
+ *
+ * La dÃ©claration est saisie une seule fois dans le
+ * Formulaire Unique.
+ *
+ * Pour les autres formulaires APDP, le bloc est masquÃ©
+ * dans l
+0118. I. Intervenants au traitement
+0119. I. Responsable du traitement
+0120. IDENTIFICATION DU RESPONSABLE DE TRAITEMENT
+0121. IDENTITE DU RESPONSABLE DE TRAITEMENT
+0122. II. FinalitÃ© et base de la communication
+0123. III. Traitement
+0124. IV. Contrat de confidentialitÃ© et garanties offertes
+0125. IV. ModalitÃ©s de communication
+0126. IV. Personnes concernÃ©es
+0127. IX. Information et consentement
+0128. Identifiez lâensemble des destinataires des donnÃ©es transfÃ©rÃ©es
+0129. IdentitÃ© du destinataire des donnÃ©es
+0130. IdentitÃ© du dÃ©clarant RCCM / IFU / CIP
+0131. Impossible d'enregistrer le profil APDP :
+0132. Impossible d'enregistrer le traitement :
+0133. Impossible de charger les organisations :
+0134. Impossible de rÃ©cupÃ©rer les organisations.
+0135. Incidents / Violations
+0136. Information prÃ©alable
+0137. Informations complÃ©mentaires
+0138. Informations gÃ©nÃ©rales de l'entreprise
+0139. Informations nÃ©cessaires au Formulaire Unique
+0140. Je dÃ©clare sur l'honneur que les renseignements fournis sont exacts.
+0141. Je m'engage, par la prÃ©sente, Ã  remplir mes missions
+        #  en tant que DÃ©lÃ©guÃ© Ã  la protection des donnÃ©es
+        #  de la maniÃ¨re suivante :
+0142. Je reconnais que je suis soumis au secret professionnel
+0143. LE TRAITEMENT ENVISAGE
+0144. LOCALISATION DU SYSTÃME
+0145. Le nom de l'organisation est obligatoire.
+0146. Le plan dâinstallation des capteurs et leur champ de vision
+0147. Les personnes concernÃ©es sont-elles informÃ©es ?
+0148. Liaison et RÃ©seau
+0149. Lieu dâinstallation du systÃ¨me de vidÃ©osurveillance
+0150. Localisation(s) de lâaffichage
+0151. Mapping officiel APDP
+Document : Consentement Ã  la transmission par voie Ã©lectronique
+
+Le PDF officiel est la source de vÃ©ritÃ©.
+Aucune modification de structure, de texte ou de pagination.
+0152. Mapping officiel APDP
+FORMULAIRE DE SIGNALEMENT
+
+Le PDF officiel est la source de vÃ©ritÃ©.
+Aucune modification de structure, texte ou pagination.
+0153. Mapping officiel â APDP â Annexe 4 : TRANSFERT
+
+IMPORTANT :
+- Le PDF officiel reste la source de vÃ©ritÃ©.
+- Aucune modification de sa structure.
+- Les coordonnÃ©es correspondent au PDF officiel.
+- Les pages et cases officielles sont conservÃ©es.
+0154. Mes coordonnÃ©es ont fait objet de publication dans
+        #  lâentreprise/ lâorganisme.
+0155. Mesures de sÃ©curitÃ© de la communication
+0156. Mesures prises pour la suppression des enregistrements
+0157. Missions officielles du DÃ©lÃ©guÃ© Ã  la protection des donnÃ©es
+0158. ModalitÃ©s de communication
+0159. MÃ©thode d'obtention du consentement
+0160. Nature de la camera
+0161. Nature des traitements opÃ©rÃ©s par le destinataire des donnÃ©es
+0162. Ne pas reformuler les missions.
+0163. Ne pas simplifier le texte.
+0164. Ne pas supprimer les obligations relatives Ã  l'indÃ©pendance du DPD.
+0165. Ne pas supprimer les rÃ©fÃ©rences au Livre VÃ¨me du code du numÃ©rique.
+0166. Nom et prÃ©nom
+0167. Nom et prÃ©noms
+0168. Nom, prÃ©noms ou raison sociale
+0169. Nombre dâaffiches ou de panneaux dâinformation
+0170. NumÃ©ro IFU ou RCCM
+0171. NumÃ©ro NPI ou RCCM
+0172. Organisation associÃ©e
+0173. Organisation crÃ©Ã©e :
+0174. Ouvrir la navigation ComplianceForge
+0175. Ouvrir le PDF
+0176. Ouvrir le menu utilisateur
+0177. Personne Ã  contacter par lâAPDP en cas de besoin (DPO)
+0178. Personnes habilitÃ©es Ã  y accÃ©der
+0179. Plan dâinstallation des camÃ©ras
+0180. Politique de confidentialitÃ©
+0181. Politique de sÃ©curitÃ©
+0182. Politique de sÃ©curitÃ© appliquÃ© au traitement
+0183. Politique de sÃ©curitÃ© appliquÃ©e au traitement
+0184. Preuve de l'information
+0185. Preuve des dispositions prises pour satisfaire le droit Ã  lâinformation prÃ©alable
+0186. Preuve du recueil de consentement des personnes concernÃ©es en cas de transfert
+0187. Prise de son
+0188. Profil APDP enregistrÃ© avec succÃ¨s.
+0189. PrÃ©parer et gÃ©nÃ©rer les formulaires officiels APDP
+0190. REGISTRE DES ACTIVITES DE TRAITEMENT
+0191. RESPECT DES PRINCIPES RELATIFS AU TRAITEMENT
+0192. Registre des traitements
+0193. RÃ©fÃ©rentiel des documents APDP utilisÃ©s par ComplianceForge.
+0194. RÃ©solution du capteur
+0195. SECURITE DES TRAITEMENTS ET DES DONNEES
+0196. SECURITE DU DISPOSITIF
+0197. Sensibilisation des personnes habilitÃ©es au respect de la vie privÃ©e et Ã  la politique de sÃ©curitÃ©
+0198. Service ou personne auprÃ¨s duquel sâexerce le droit dâaccÃ¨s
+0199. Suite des missions officielles du DÃ©lÃ©guÃ© Ã  la protection
+0200. Suivi des violations de donnÃ©es et du dÃ©lai de notification
+0201. Support de lâenregistreur
+0202. Sur l'honneur et aux fins de droit.
+0203. TRAITEMENT DES VIDEO-SURVEILLANCES
+0204. TRAITEMENTS ANTERIEURS
+0205. TRANSFERT DES DONNEES VERS UN PAYS TIERS
+0206. Taux de Conformiter
+0207. Traitement crÃ©Ã© :
+0208. Traitement dâimage
+0209. Traitement sÃ©lectionnÃ©. Les formulaires APDP utiliseront automatiquement ses informations.
+0210. Type de destinataire / lien juridique avec le responsable de traitement
+0211. Utilisation de systÃ¨mes experts
+0212. V. Information des personnes impliquÃ©es
+0213. VI. FinalitÃ© et fondement juridique
+0214. VI. Information prÃ©alable
+0215. VI. Mise en conformitÃ© auprÃ¨s de l'APDP
+0216. VII. Conservation et stockage
+0217. VII. DÃ©claration sur l'honneur
+0218. VII. SÃ©curitÃ© organisÃ©e par le sous-traitant
+0219. VIII. DÃ©claration sur l'honneur
+0220. VIII. Partage des donnÃ©es
+0221. Veuillez indiquer sâil existe un fondement juridique au transfert
+0222. Veuillez prÃ©ciser la nature des traitements opÃ©rÃ©s par le destinataire des donnÃ©es
+0223. Veuillez sÃ©lectionner une organisation.
+0224. Visualisation des images en temps rÃ©el
+0225. Vue gÃ©nÃ©rale de votre conformitÃ© GRC
+0226. Vue synthÃ©tique de la conformitÃ© APDP
+0227. Vue synthÃ©tique des risques ComplianceForge
+0228. VÃ©rification du remplissage du formulaire de dÃ©claration
+0229. XI. Droits des personnes
+0230. XII. FormalitÃ©s et suivi
+0231. ]
+
+ };
+
+ /*
+ * Valeurs provenant du traitement.
+ */
+ const declarationKey =
+ name.includes(
+0232. ]
+ *
+ * sans modifier le mapping officiel du PDF.
+ */
+ if (input.type ===
+0233. ]
+ };
+
+ /*
+ * Valeurs de la dÃ©claration sur l'honneur.
+ *
+ * Ces informations sont reprises du Profil APDP lorsqu'elles
+ * existent dÃ©jÃ  dans le dossier.
+ */
+ const declarationPaths = {
+
+ nom_prenom: [
+0234. ],
+
+ adresse: [
+0235. ],
+
+ adresse_electronique: [
+0236. ],
+
+ adresse_postale: [
+0237. ],
+
+ adresse_representant: [
+0238. ],
+
+ traitement: [
+0239. ],
+   adresse_representant: [
+0240. affichage",
+
+            "Affichage":
+                "Affichage",
+
+            "DensitÃ© de l
+0241. affichage":
+                "Modo de exibiÃ§Ã£o",
+            "Affichage": "ExibiÃ§Ã£o",
+            "DensitÃ© de l
+0242. affichage": "Display mode",
+            "Affichage": "Display",
+            "DensitÃ© de l
+0243. apparence
+                                    de l
+0244. autres
+       Ã©lÃ©ments de l
+0245. conditions et moyens nÃ©cessaires Ã  l'exercice des missions.
+0246. des donnÃ©es personnelles, points 10 Ã  15, suivie des
+0247. en ce qui concerne lâexercice de mes missions.
+0248. enregistrer l
+0249. enregistrerParametresUtilisateur()
+0250. enregistrerProfilUtilisateur()
+0251. entreprise",
+
+            "AccÃ©der aux formulaires et annexes":
+                "AccÃ©der aux formulaires et annexes",
+
+            "GÃ©rer les traitements de l
+0252. entreprise":
+                "Enter organization information",
+
+            "AccÃ©der aux formulaires et annexes":
+                "Access forms and annexes",
+
+            "GÃ©rer les traitements de l
+0253. est jamais modifiÃ©.
+- Les coordonnÃ©es servent uniquement Ã  la superposition.
+- La page 3 est une check-list officielle et n
+0254. est supprimÃ©e.
+- Aucune rubrique n
+0255. honneur.
+ *
+ * Ces informations sont reprises du Profil APDP lorsqu
+0256. interface":
+                "Idioma de la interfaz",
+            "Apparence": "Apariencia",
+            "Mode d
+0257. ordre de l
+0258. organisation",
+
+            "Informations de l
+0259. organisation",
+
+            "Nom de l
+0260. organisation",
+
+            "Secteur d
+0261. organisation",
+
+            "Suivre le workflow de notification":
+                "Suivre le workflow de notification",
+
+            /* Organisation */
+
+            "Gestion de l
+0262. organisation":
+                "GestÃ£o da organizaÃ§Ã£o",
+            "Informations de l
+0263. organisation":
+                "InformaciÃ³n de la organizaciÃ³n",
+            "Nom de l
+0264. organisation":
+                "Nome da organizaÃ§Ã£o",
+            "Secteur d
+0265. organisation":
+                "Organization management",
+
+            "Informations de l
+0266. organisation":
+                "Organization name",
+
+            "Secteur d
+0267. ouverture de la page ParamÃ¨tres.
+     */
+
+    /*
+     * IMPORTANT :
+     * Ne pas observer continuellement le DOM.
+     *
+     * L
+0268. personnelles, points 1 Ã  9.
+0269. un systÃ¨me d
+0270. ÃlÃ¨ves et Ã©tudiants
+0271. Ãtat, dÃ©fense ou sÃ©curitÃ© publique",
+
+ situation_condamnations_penales:
+ "Condamnations pÃ©nales ou mesures de sÃ»retÃ©",
+
+ situation_infraction:
+ "PrÃ©vention, recherche ou poursuite d
+0272. Ãvaluation de la conformitÃ© et du risque
+0273. Ã©viter une saisie rÃ©pÃ©titive.
+ *
+ * IMPORTANT :
+ * - le mapping PDF officiel n
+0274. â
+0275. â¦..
+0276. âï¸
+0277. âï¸ ParamÃ¨tres
+0278. âï¸
+0279. â
+0280. ð  Tableau de bord
+0281. ðï¸
+0282. ð¡ï¸ Risques / EBIOS RM

@@ -1,0 +1,1694 @@
+{
+  ")\n )\n ) {\n return new Date().toISOString().slice(0, 10);\n }\n\n }\n\n\n const traitementPaths = {\n nom_traitement: [": {
+    "fr": ")\n )\n ) {\n return new Date().toISOString().slice(0, 10);\n }\n\n }\n\n\n const traitementPaths = {\n nom_traitement: [",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ") {\n   apdpApplyConditionalRules();\n }\n\n normalizeExclusiveAPDPChoices();\n\n /*\n  * Plus de pagination entre les rubriques.\n  */\n pageNumber.textContent =": {
+    "fr": ") {\n   apdpApplyConditionalRules();\n }\n\n normalizeExclusiveAPDPChoices();\n\n /*\n  * Plus de pagination entre les rubriques.\n  */\n pageNumber.textContent =",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ") {\n return value;\n }\n\n }\n\n }\n\n /*\n  * La date de dÃ©claration peut Ãªtre proposÃ©e automatiquement.\n  * Elle n'est ajoutÃ©e que si le champ est explicitement un champ\n  * de date.\n  */\n if (\n declarationName ===": {
+    "fr": ") {\n return value;\n }\n\n }\n\n }\n\n /*\n  * La date de dÃ©claration peut Ãªtre proposÃ©e automatiquement.\n  * Elle n'est ajoutÃ©e que si le champ est explicitement un champ\n  * de date.\n  */\n if (\n declarationName ===",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ").value,\n\n                    notifications:\n                        document.getElementById(": {
+    "fr": ").value,\n\n                    notifications:\n                        document.getElementById(",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ");\n\n                if (!button) {\n                    return;\n                }\n\n                /*\n                 * Ne pas intercepter la dÃ©connexion.\n                 */\n                if (\n                    button.id ===": {
+    "fr": ");\n\n                if (!button) {\n                    return;\n                }\n\n                /*\n                 * Ne pas intercepter la dÃ©connexion.\n                 */\n                if (\n                    button.id ===",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ");\n\n            }\n        );\n\n\n        /* ------------------------------------------------------\n           RETOUR DASHBOARD\n           ------------------------------------------------------ */\n\n        document.getElementById(": {
+    "fr": ");\n\n            }\n        );\n\n\n        /* ------------------------------------------------------\n           RETOUR DASHBOARD\n           ------------------------------------------------------ */\n\n        document.getElementById(",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ");\n\n        if (!items.length) {\n            return;\n        }\n\n        /*\n         * Ajouter des identifiants stables.\n         */\n\n        if (items[0]) {\n            items[0].id =": {
+    "fr": ");\n\n        if (!items.length) {\n            return;\n        }\n\n        /*\n         * Ajouter des identifiants stables.\n         */\n\n        if (items[0]) {\n            items[0].id =",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ");\n\n        settingsButton.parentNode.replaceChild(\n            cleanButton,\n            settingsButton\n        );\n\n        /*\n         * Un seul clic propre.\n         */\n\n        cleanButton.addEventListener(": {
+    "fr": ");\n\n        settingsButton.parentNode.replaceChild(\n            cleanButton,\n            settingsButton\n        );\n\n        /*\n         * Un seul clic propre.\n         */\n\n        cleanButton.addEventListener(",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ");\n\n pageContainer.innerHTML = renderedGroups;\n\n restorePageValues();\n\n /*\n  * Les champs masquÃ©s/automatiques ne doivent\n  * rÃ©server aucun espace.\n  */\n pageContainer\n   .querySelectorAll(": {
+    "fr": ");\n\n pageContainer.innerHTML = renderedGroups;\n\n restorePageValues();\n\n /*\n  * Les champs masquÃ©s/automatiques ne doivent\n  * rÃ©server aucun espace.\n  */\n pageContainer\n   .querySelectorAll(",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ");\n        }\n    }\n\n    /*\n     * Ajout du bouton de dÃ©connexion\n     */\n\n    function ajouterDeconnexion() {\n\n        const menu =\n            document.getElementById(": {
+    "fr": ");\n        }\n    }\n\n    /*\n     * Ajout du bouton de dÃ©connexion\n     */\n\n    function ajouterDeconnexion() {\n\n        const menu =\n            document.getElementById(",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ",\n\n            /* Incidents */": {
+    "fr": ",\n\n            /* Incidents */",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ",\n\n            /* Organisation */": {
+    "fr": ",\n\n            /* Organisation */",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ",\n\n            /* Risques */": {
+    "fr": ",\n\n            /* Risques */",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ",\n\n            /* Traitements */": {
+    "fr": ",\n\n            /* Traitements */",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ",\n\n personnes_adherents:": {
+    "fr": ",\n\n personnes_adherents:",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ",\n\n personnes_autres:": {
+    "fr": ",\n\n personnes_autres:",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ",\n\n personnes_clients:": {
+    "fr": ",\n\n personnes_clients:",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ",\n\n personnes_eleves_etudiants:": {
+    "fr": ",\n\n personnes_eleves_etudiants:",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ",\n\n personnes_patients:": {
+    "fr": ",\n\n personnes_patients:",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ",\n\n personnes_usagers:": {
+    "fr": ",\n\n personnes_usagers:",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ",\n\n personnes_visiteurs:": {
+    "fr": ",\n\n personnes_visiteurs:",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ",\n                        lang\n                    );\n\n                /*\n                 * Traduire immÃ©diatement toute la page.\n                 */\n                if (\n                    typeof window.complianceForgeTranslatePage ===": {
+    "fr": ",\n                        lang\n                    );\n\n                /*\n                 * Traduire immÃ©diatement toute la page.\n                 */\n                if (\n                    typeof window.complianceForgeTranslatePage ===",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ",\n                    language\n                );\n\n            /*\n             * Menu utilisateur.\n             */\n\n            const menu =\n                document.getElementById(": {
+    "fr": ",\n                    language\n                );\n\n            /*\n             * Menu utilisateur.\n             */\n\n            const menu =\n                document.getElementById(",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ",\n                    notifications: true\n                };\n\n                sauvegarderParametres(\n                    defaults\n                );\n\n                document.getElementById(": {
+    "fr": ",\n                    notifications: true\n                };\n\n                sauvegarderParametres(\n                    defaults\n                );\n\n                document.getElementById(",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ";\n\n\n /* Champs dÃ©jÃ  connus : on conserve le mÃ©canisme\n de prÃ©remplissage existant s'il est disponible. */\n if (\n typeof getAPDPAutoValue ===": {
+    "fr": ";\n\n\n /* Champs dÃ©jÃ  connus : on conserve le mÃ©canisme\n de prÃ©remplissage existant s'il est disponible. */\n if (\n typeof getAPDPAutoValue ===",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ";\n\n   });\n\n /*\n  * RÃ©duction des espacements entre les rubriques.\n  */\n pageContainer\n   .querySelectorAll(": {
+    "fr": ";\n\n   });\n\n /*\n  * RÃ©duction des espacements entre les rubriques.\n  */\n pageContainer\n   .querySelectorAll(",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ";\n                }\n            }\n\n            /*\n             * Bouton de dÃ©connexion.\n             */\n\n            const logout =\n                document.getElementById(": {
+    "fr": ";\n                }\n            }\n\n            /*\n             * Bouton de dÃ©connexion.\n             */\n\n            const logout =\n                document.getElementById(",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ";\n            }\n        };\n\n\n    /*\n     * Quand une nouvelle page est affichÃ©e,\n     * on la traduit aprÃ¨s son rendu.\n     */\n\n    if (\n        typeof window.navigate ===": {
+    "fr": ";\n            }\n        };\n\n\n    /*\n     * Quand une nouvelle page est affichÃ©e,\n     * on la traduit aprÃ¨s son rendu.\n     */\n\n    if (\n        typeof window.navigate ===",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  ";\n     }\n\n   });\n\n /*\n  * Toutes les rubriques sont dans le mÃªme flux.\n  */\n pageContainer\n   .querySelectorAll(": {
+    "fr": ";\n     }\n\n   });\n\n /*\n  * Toutes les rubriques sont dans le mÃªme flux.\n  */\n pageContainer\n   .querySelectorAll(",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "ANNEXE 4 : TRANSFERT": {
+    "fr": "ANNEXE 4 : TRANSFERT",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "AccessibilitÃ© au sous-traitant": {
+    "fr": "AccessibilitÃ© au sous-traitant",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "AccÃ¨s aux images Ã  distance": {
+    "fr": "AccÃ¨s aux images Ã  distance",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "AccÃ¨s logique / sauvegarde et protection des enregistrements": {
+    "fr": "AccÃ¨s logique / sauvegarde et protection des enregistrements",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "AccÃ¨s physique au poste central de surveillance": {
+    "fr": "AccÃ¨s physique au poste central de surveillance",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "AccÃ©der au registre des traitements": {
+    "fr": "AccÃ©der au registre des traitements",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "AccÃ©der aux incidents et violations": {
+    "fr": "AccÃ©der aux incidents et violations",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "AccÃ©der Ã  la page Organisation": {
+    "fr": "AccÃ©der Ã  la page Organisation",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Adresse de l'organisation": {
+    "fr": "Adresse de l'organisation",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Adresse du reprÃ©sentant lÃ©gal": {
+    "fr": "Adresse du reprÃ©sentant lÃ©gal",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Adresse postale": {
+    "fr": "Adresse postale",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Adresse Ã©lectronique": {
+    "fr": "Adresse Ã©lectronique",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Analyse des Ã©carts": {
+    "fr": "Analyse des Ã©carts",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Aucun Profil APDP disponible pour cette organisation.": {
+    "fr": "Aucun Profil APDP disponible pour cette organisation.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Aucun traitement n'est enregistrÃ© pour cette organisation.": {
+    "fr": "Aucun traitement n'est enregistrÃ© pour cette organisation.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Aucune information APDP existante pour ce traitement.": {
+    "fr": "Aucune information APDP existante pour ce traitement.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Aucune page disponible dans le formulaire.": {
+    "fr": "Aucune page disponible dans le formulaire.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Autres modalitÃ©s dâinformation des personnes concernÃ©es": {
+    "fr": "Autres modalitÃ©s dâinformation des personnes concernÃ©es",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Autres moyens de contact": {
+    "fr": "Autres moyens de contact",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Base Juridique du traitement": {
+    "fr": "Base Juridique du traitement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Base justifiant la communication": {
+    "fr": "Base justifiant la communication",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "CARACTERISTIQUES ET FONCTIONNALITÃS DU SYSTEME": {
+    "fr": "CARACTERISTIQUES ET FONCTIONNALITÃS DU SYSTEME",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "CONSENTEMENT A LA TRANSMISSION PAR VOIE ELECTRONIQUE": {
+    "fr": "CONSENTEMENT A LA TRANSMISSION PAR VOIE ELECTRONIQUE",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "CaractÃ©ristiques techniques des Ã©quipements utilisÃ©s": {
+    "fr": "CaractÃ©ristiques techniques des Ã©quipements utilisÃ©s",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Communication / transmission": {
+    "fr": "Communication / transmission",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Configurez les prÃ©fÃ©rences de votre espace ComplianceForge.": {
+    "fr": "Configurez les prÃ©fÃ©rences de votre espace ComplianceForge.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Conserver intÃ©gralement le texte officiel.": {
+    "fr": "Conserver intÃ©gralement le texte officiel.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Conserver intÃ©gralement les points 10 Ã  15.": {
+    "fr": "Conserver intÃ©gralement les points 10 Ã  15.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Conserver la numÃ©rotation officielle.": {
+    "fr": "Conserver la numÃ©rotation officielle.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Conserver le pied de page APDP.": {
+    "fr": "Conserver le pied de page APDP.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Conserver les obligations du responsable de traitement ou du sous-traitant.": {
+    "fr": "Conserver les obligations du responsable de traitement ou du sous-traitant.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Conserver les paragraphes relatifs aux ressources et moyens.": {
+    "fr": "Conserver les paragraphes relatifs aux ressources et moyens.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Consignation sur support (Contrat de confidentialitÃ©)": {
+    "fr": "Consignation sur support (Contrat de confidentialitÃ©)",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Consulter les Ã©lÃ©ments hors dÃ©lai": {
+    "fr": "Consulter les Ã©lÃ©ments hors dÃ©lai",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Consultez et gÃ©rez les principaux paramÃ¨tres de sÃ©curitÃ© du compte.": {
+    "fr": "Consultez et gÃ©rez les principaux paramÃ¨tres de sÃ©curitÃ© du compte.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Contenu de l'information": {
+    "fr": "Contenu de l'information",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Copie de lâextrait du Registre de Commerce et de CrÃ©dit Mobilier (RCCM) et / ou de lâIdentifiant Fiscal Unique (IFU) de la sociÃ©tÃ© / structure": {
+    "fr": "Copie de lâextrait du Registre de Commerce et de CrÃ©dit Mobilier (RCCM) et / ou de lâIdentifiant Fiscal Unique (IFU) de la sociÃ©tÃ© / structure",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Copie des clauses de confidentialitÃ© de lâhÃ©bergeur ou du propriÃ©taire du cloud en cas de conservation des donnÃ©es": {
+    "fr": "Copie des clauses de confidentialitÃ© de lâhÃ©bergeur ou du propriÃ©taire du cloud en cas de conservation des donnÃ©es",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Copie du Contrat de confidentialitÃ© signÃ© entre le Responsable de Traitement et le sous-traitant ou les prestataires le cas Ã©chÃ©ant": {
+    "fr": "Copie du Contrat de confidentialitÃ© signÃ© entre le Responsable de Traitement et le sous-traitant ou les prestataires le cas Ã©chÃ©ant",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Copie du NPI ou de la piÃ¨ce dâidentitÃ© (CIN ou Passeport) du Responsable de traitement de la sociÃ©tÃ©": {
+    "fr": "Copie du NPI ou de la piÃ¨ce dâidentitÃ© (CIN ou Passeport) du Responsable de traitement de la sociÃ©tÃ©",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "DE TRAITEMENTS PAR CAPTEURS (IMAGE, VOIX, DONNEES BIOMETRIQUES)": {
+    "fr": "DE TRAITEMENTS PAR CAPTEURS (IMAGE, VOIX, DONNEES BIOMETRIQUES)",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "DELEGUE A LA PROTECTION DES DONNEES PERSONNELLES": {
+    "fr": "DELEGUE A LA PROTECTION DES DONNEES PERSONNELLES",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "DONNÃES COLLECTÃES ET TRAITÃES": {
+    "fr": "DONNÃES COLLECTÃES ET TRAITÃES",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "DROIT DES PERSONNES CONCERNEES": {
+    "fr": "DROIT DES PERSONNES CONCERNEES",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "DROITS DES PERSONNES FILMEES": {
+    "fr": "DROITS DES PERSONNES FILMEES",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Date de mise en Åuvre du systÃ¨me": {
+    "fr": "Date de mise en Åuvre du systÃ¨me",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Description de l'activitÃ©": {
+    "fr": "Description de l'activitÃ©",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Destinataires situÃ©s au BÃ©nin": {
+    "fr": "Destinataires situÃ©s au BÃ©nin",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Destinataires situÃ©s dans un pays de la CEDEAO": {
+    "fr": "Destinataires situÃ©s dans un pays de la CEDEAO",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "DonnÃ©es collectÃ©es et traitÃ©es": {
+    "fr": "DonnÃ©es collectÃ©es et traitÃ©es",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "DurÃ©e de conservation des images": {
+    "fr": "DurÃ©e de conservation des images",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "DÃ©claration sur l'honneur": {
+    "fr": "DÃ©claration sur l'honneur",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "DÃ©crivez la finalitÃ© du traitement": {
+    "fr": "DÃ©crivez la finalitÃ© du traitement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "DÃ©lai de communication des informations en cas dâexercice du droit dâaccÃ¨s": {
+    "fr": "DÃ©lai de communication des informations en cas dâexercice du droit dâaccÃ¨s",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "ENGAGEMENT DE RESPECT DES OBLIGATIONS INCOMBANT AU": {
+    "fr": "ENGAGEMENT DE RESPECT DES OBLIGATIONS INCOMBANT AU",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "ENGAGEMENT DU RESPONSABLE DU TRAITEMENT": {
+    "fr": "ENGAGEMENT DU RESPONSABLE DU TRAITEMENT",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Emplacement des camÃ©ras": {
+    "fr": "Emplacement des camÃ©ras",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Engagement de confidentialitÃ© signÃ© entre les agents en charge du traitement des donnÃ©es personnelles et le Responsable de Traitement": {
+    "fr": "Engagement de confidentialitÃ© signÃ© entre les agents en charge du traitement des donnÃ©es personnelles et le Responsable de Traitement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Engagement du responsable du traitement": {
+    "fr": "Engagement du responsable du traitement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Enregistrer l'organisation": {
+    "fr": "Enregistrer l'organisation",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Enregistrer le profil APDP": {
+    "fr": "Enregistrer le profil APDP",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Enregistrer le traitement": {
+    "fr": "Enregistrer le traitement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Erreur chargement formulaire APDP:": {
+    "fr": "Erreur chargement formulaire APDP:",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Erreur chargement organisations APDP :": {
+    "fr": "Erreur chargement organisations APDP :",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Erreur chargement traitements APDP :": {
+    "fr": "Erreur chargement traitements APDP :",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Erreur lors de l'enregistrement du profil APDP.": {
+    "fr": "Erreur lors de l'enregistrement du profil APDP.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Erreur lors de l'enregistrement du traitement.": {
+    "fr": "Erreur lors de l'enregistrement du traitement.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Erreur lors de la crÃ©ation de l'organisation.": {
+    "fr": "Erreur lors de la crÃ©ation de l'organisation.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Erreur organisations :": {
+    "fr": "Erreur organisations :",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Erreur traitement :": {
+    "fr": "Erreur traitement :",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Ex. Direction des Ressources Humaines": {
+    "fr": "Ex. Direction des Ressources Humaines",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Ex. Gestion des ressources humaines": {
+    "fr": "Ex. Gestion des ressources humaines",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Expliquez la base lÃ©gale retenue": {
+    "fr": "Expliquez la base lÃ©gale retenue",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Exposition et affichage": {
+    "fr": "Exposition et affichage",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "FICHE NÂ° 001 : VIDÃO SURVEILLANCE": {
+    "fr": "FICHE NÂ° 001 : VIDÃO SURVEILLANCE",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "FINALITES DU SYSTÃME": {
+    "fr": "FINALITES DU SYSTÃME",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "FORMULAIRE COMPLEMENTAIRE POUR LA MISE EN OEUVRE": {
+    "fr": "FORMULAIRE COMPLEMENTAIRE POUR LA MISE EN OEUVRE",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "FORMULAIRE COMPLEMENTAIRE POUR LA MISE EN OEUVRE DE TRAITEMENTS SUR SITE WEB": {
+    "fr": "FORMULAIRE COMPLEMENTAIRE POUR LA MISE EN OEUVRE DE TRAITEMENTS SUR SITE WEB",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "FORMULAIRE DE SIGNALEMENT": {
+    "fr": "FORMULAIRE DE SIGNALEMENT",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "FORMULAIRE DâENGAGEMENT DE CONFORMITE DE TRAITEMENTS DE DONNEES A CARACTERE PERSONNEL": {
+    "fr": "FORMULAIRE DâENGAGEMENT DE CONFORMITE DE TRAITEMENTS DE DONNEES A CARACTERE PERSONNEL",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "FinalitÃ© de la communication": {
+    "fr": "FinalitÃ© de la communication",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "FinalitÃ© du transfert Ã  lâÃ©tranger envisagÃ©": {
+    "fr": "FinalitÃ© du transfert Ã  lâÃ©tranger envisagÃ©",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Fondement juridique au transfert": {
+    "fr": "Fondement juridique au transfert",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Formulaires APDP": {
+    "fr": "Formulaires APDP",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Garanties de protection des donnÃ©es": {
+    "fr": "Garanties de protection des donnÃ©es",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Gestion des traitements de donnÃ©es personnelles": {
+    "fr": "Gestion des traitements de donnÃ©es personnelles",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "GÃ©rez les informations associÃ©es Ã  votre compte utilisateur.": {
+    "fr": "GÃ©rez les informations associÃ©es Ã  votre compte utilisateur.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "HONNEUR\n *\n * La dÃ©claration est saisie une seule fois dans le\n * Formulaire Unique.\n *\n * Pour les autres formulaires APDP, le bloc est masquÃ©\n * dans l": {
+    "fr": "HONNEUR\n *\n * La dÃ©claration est saisie une seule fois dans le\n * Formulaire Unique.\n *\n * Pour les autres formulaires APDP, le bloc est masquÃ©\n * dans l",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "I. Intervenants au traitement": {
+    "fr": "I. Intervenants au traitement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "I. Responsable du traitement": {
+    "fr": "I. Responsable du traitement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "IDENTIFICATION DU RESPONSABLE DE TRAITEMENT": {
+    "fr": "IDENTIFICATION DU RESPONSABLE DE TRAITEMENT",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "IDENTITE DU RESPONSABLE DE TRAITEMENT": {
+    "fr": "IDENTITE DU RESPONSABLE DE TRAITEMENT",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "II. FinalitÃ© et base de la communication": {
+    "fr": "II. FinalitÃ© et base de la communication",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "III. Traitement": {
+    "fr": "III. Traitement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "IV. Contrat de confidentialitÃ© et garanties offertes": {
+    "fr": "IV. Contrat de confidentialitÃ© et garanties offertes",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "IV. ModalitÃ©s de communication": {
+    "fr": "IV. ModalitÃ©s de communication",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "IV. Personnes concernÃ©es": {
+    "fr": "IV. Personnes concernÃ©es",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "IX. Information et consentement": {
+    "fr": "IX. Information et consentement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Identifiez lâensemble des destinataires des donnÃ©es transfÃ©rÃ©es": {
+    "fr": "Identifiez lâensemble des destinataires des donnÃ©es transfÃ©rÃ©es",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "IdentitÃ© du destinataire des donnÃ©es": {
+    "fr": "IdentitÃ© du destinataire des donnÃ©es",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "IdentitÃ© du dÃ©clarant RCCM / IFU / CIP": {
+    "fr": "IdentitÃ© du dÃ©clarant RCCM / IFU / CIP",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Impossible d'enregistrer le profil APDP :": {
+    "fr": "Impossible d'enregistrer le profil APDP :",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Impossible d'enregistrer le traitement :": {
+    "fr": "Impossible d'enregistrer le traitement :",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Impossible de charger les organisations :": {
+    "fr": "Impossible de charger les organisations :",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Impossible de rÃ©cupÃ©rer les organisations.": {
+    "fr": "Impossible de rÃ©cupÃ©rer les organisations.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Incidents / Violations": {
+    "fr": "Incidents / Violations",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Information prÃ©alable": {
+    "fr": "Information prÃ©alable",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Informations complÃ©mentaires": {
+    "fr": "Informations complÃ©mentaires",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Informations gÃ©nÃ©rales de l'entreprise": {
+    "fr": "Informations gÃ©nÃ©rales de l'entreprise",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Informations nÃ©cessaires au Formulaire Unique": {
+    "fr": "Informations nÃ©cessaires au Formulaire Unique",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Je dÃ©clare sur l'honneur que les renseignements fournis sont exacts.": {
+    "fr": "Je dÃ©clare sur l'honneur que les renseignements fournis sont exacts.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Je m'engage, par la prÃ©sente, Ã  remplir mes missions\n        #  en tant que DÃ©lÃ©guÃ© Ã  la protection des donnÃ©es\n        #  de la maniÃ¨re suivante :": {
+    "fr": "Je m'engage, par la prÃ©sente, Ã  remplir mes missions\n        #  en tant que DÃ©lÃ©guÃ© Ã  la protection des donnÃ©es\n        #  de la maniÃ¨re suivante :",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Je reconnais que je suis soumis au secret professionnel": {
+    "fr": "Je reconnais que je suis soumis au secret professionnel",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "LE TRAITEMENT ENVISAGE": {
+    "fr": "LE TRAITEMENT ENVISAGE",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "LOCALISATION DU SYSTÃME": {
+    "fr": "LOCALISATION DU SYSTÃME",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Le nom de l'organisation est obligatoire.": {
+    "fr": "Le nom de l'organisation est obligatoire.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Le plan dâinstallation des capteurs et leur champ de vision": {
+    "fr": "Le plan dâinstallation des capteurs et leur champ de vision",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Les personnes concernÃ©es sont-elles informÃ©es ?": {
+    "fr": "Les personnes concernÃ©es sont-elles informÃ©es ?",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Liaison et RÃ©seau": {
+    "fr": "Liaison et RÃ©seau",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Lieu dâinstallation du systÃ¨me de vidÃ©osurveillance": {
+    "fr": "Lieu dâinstallation du systÃ¨me de vidÃ©osurveillance",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Localisation(s) de lâaffichage": {
+    "fr": "Localisation(s) de lâaffichage",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Mapping officiel APDP\nDocument : Consentement Ã  la transmission par voie Ã©lectronique\n\nLe PDF officiel est la source de vÃ©ritÃ©.\nAucune modification de structure, de texte ou de pagination.": {
+    "fr": "Mapping officiel APDP\nDocument : Consentement Ã  la transmission par voie Ã©lectronique\n\nLe PDF officiel est la source de vÃ©ritÃ©.\nAucune modification de structure, de texte ou de pagination.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Mapping officiel APDP\nFORMULAIRE DE SIGNALEMENT\n\nLe PDF officiel est la source de vÃ©ritÃ©.\nAucune modification de structure, texte ou pagination.": {
+    "fr": "Mapping officiel APDP\nFORMULAIRE DE SIGNALEMENT\n\nLe PDF officiel est la source de vÃ©ritÃ©.\nAucune modification de structure, texte ou pagination.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Mapping officiel â APDP â Annexe 4 : TRANSFERT\n\nIMPORTANT :\n- Le PDF officiel reste la source de vÃ©ritÃ©.\n- Aucune modification de sa structure.\n- Les coordonnÃ©es correspondent au PDF officiel.\n- Les pages et cases officielles sont conservÃ©es.": {
+    "fr": "Mapping officiel â APDP â Annexe 4 : TRANSFERT\n\nIMPORTANT :\n- Le PDF officiel reste la source de vÃ©ritÃ©.\n- Aucune modification de sa structure.\n- Les coordonnÃ©es correspondent au PDF officiel.\n- Les pages et cases officielles sont conservÃ©es.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Mes coordonnÃ©es ont fait objet de publication dans\n        #  lâentreprise/ lâorganisme.": {
+    "fr": "Mes coordonnÃ©es ont fait objet de publication dans\n        #  lâentreprise/ lâorganisme.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Mesures de sÃ©curitÃ© de la communication": {
+    "fr": "Mesures de sÃ©curitÃ© de la communication",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Mesures prises pour la suppression des enregistrements": {
+    "fr": "Mesures prises pour la suppression des enregistrements",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Missions officielles du DÃ©lÃ©guÃ© Ã  la protection des donnÃ©es": {
+    "fr": "Missions officielles du DÃ©lÃ©guÃ© Ã  la protection des donnÃ©es",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "ModalitÃ©s de communication": {
+    "fr": "ModalitÃ©s de communication",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "MÃ©thode d'obtention du consentement": {
+    "fr": "MÃ©thode d'obtention du consentement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Nature de la camera": {
+    "fr": "Nature de la camera",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Nature des traitements opÃ©rÃ©s par le destinataire des donnÃ©es": {
+    "fr": "Nature des traitements opÃ©rÃ©s par le destinataire des donnÃ©es",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Ne pas reformuler les missions.": {
+    "fr": "Ne pas reformuler les missions.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Ne pas simplifier le texte.": {
+    "fr": "Ne pas simplifier le texte.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Ne pas supprimer les obligations relatives Ã  l'indÃ©pendance du DPD.": {
+    "fr": "Ne pas supprimer les obligations relatives Ã  l'indÃ©pendance du DPD.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Ne pas supprimer les rÃ©fÃ©rences au Livre VÃ¨me du code du numÃ©rique.": {
+    "fr": "Ne pas supprimer les rÃ©fÃ©rences au Livre VÃ¨me du code du numÃ©rique.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Nom et prÃ©nom": {
+    "fr": "Nom et prÃ©nom",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Nom et prÃ©noms": {
+    "fr": "Nom et prÃ©noms",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Nom, prÃ©noms ou raison sociale": {
+    "fr": "Nom, prÃ©noms ou raison sociale",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Nombre dâaffiches ou de panneaux dâinformation": {
+    "fr": "Nombre dâaffiches ou de panneaux dâinformation",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "NumÃ©ro IFU ou RCCM": {
+    "fr": "NumÃ©ro IFU ou RCCM",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "NumÃ©ro NPI ou RCCM": {
+    "fr": "NumÃ©ro NPI ou RCCM",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Organisation associÃ©e": {
+    "fr": "Organisation associÃ©e",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Organisation crÃ©Ã©e :": {
+    "fr": "Organisation crÃ©Ã©e :",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Ouvrir la navigation ComplianceForge": {
+    "fr": "Ouvrir la navigation ComplianceForge",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Ouvrir le PDF": {
+    "fr": "Ouvrir le PDF",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Ouvrir le menu utilisateur": {
+    "fr": "Ouvrir le menu utilisateur",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Personne Ã  contacter par lâAPDP en cas de besoin (DPO)": {
+    "fr": "Personne Ã  contacter par lâAPDP en cas de besoin (DPO)",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Personnes habilitÃ©es Ã  y accÃ©der": {
+    "fr": "Personnes habilitÃ©es Ã  y accÃ©der",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Plan dâinstallation des camÃ©ras": {
+    "fr": "Plan dâinstallation des camÃ©ras",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Politique de confidentialitÃ©": {
+    "fr": "Politique de confidentialitÃ©",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Politique de sÃ©curitÃ©": {
+    "fr": "Politique de sÃ©curitÃ©",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Politique de sÃ©curitÃ© appliquÃ© au traitement": {
+    "fr": "Politique de sÃ©curitÃ© appliquÃ© au traitement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Politique de sÃ©curitÃ© appliquÃ©e au traitement": {
+    "fr": "Politique de sÃ©curitÃ© appliquÃ©e au traitement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Preuve de l'information": {
+    "fr": "Preuve de l'information",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Preuve des dispositions prises pour satisfaire le droit Ã  lâinformation prÃ©alable": {
+    "fr": "Preuve des dispositions prises pour satisfaire le droit Ã  lâinformation prÃ©alable",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Preuve du recueil de consentement des personnes concernÃ©es en cas de transfert": {
+    "fr": "Preuve du recueil de consentement des personnes concernÃ©es en cas de transfert",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Prise de son": {
+    "fr": "Prise de son",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Profil APDP enregistrÃ© avec succÃ¨s.": {
+    "fr": "Profil APDP enregistrÃ© avec succÃ¨s.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "PrÃ©parer et gÃ©nÃ©rer les formulaires officiels APDP": {
+    "fr": "PrÃ©parer et gÃ©nÃ©rer les formulaires officiels APDP",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "REGISTRE DES ACTIVITES DE TRAITEMENT": {
+    "fr": "REGISTRE DES ACTIVITES DE TRAITEMENT",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "RESPECT DES PRINCIPES RELATIFS AU TRAITEMENT": {
+    "fr": "RESPECT DES PRINCIPES RELATIFS AU TRAITEMENT",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Registre des traitements": {
+    "fr": "Registre des traitements",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "RÃ©fÃ©rentiel des documents APDP utilisÃ©s par ComplianceForge.": {
+    "fr": "RÃ©fÃ©rentiel des documents APDP utilisÃ©s par ComplianceForge.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "RÃ©solution du capteur": {
+    "fr": "RÃ©solution du capteur",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "SECURITE DES TRAITEMENTS ET DES DONNEES": {
+    "fr": "SECURITE DES TRAITEMENTS ET DES DONNEES",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "SECURITE DU DISPOSITIF": {
+    "fr": "SECURITE DU DISPOSITIF",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Sensibilisation des personnes habilitÃ©es au respect de la vie privÃ©e et Ã  la politique de sÃ©curitÃ©": {
+    "fr": "Sensibilisation des personnes habilitÃ©es au respect de la vie privÃ©e et Ã  la politique de sÃ©curitÃ©",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Service ou personne auprÃ¨s duquel sâexerce le droit dâaccÃ¨s": {
+    "fr": "Service ou personne auprÃ¨s duquel sâexerce le droit dâaccÃ¨s",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Suite des missions officielles du DÃ©lÃ©guÃ© Ã  la protection": {
+    "fr": "Suite des missions officielles du DÃ©lÃ©guÃ© Ã  la protection",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Suivi des violations de donnÃ©es et du dÃ©lai de notification": {
+    "fr": "Suivi des violations de donnÃ©es et du dÃ©lai de notification",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Support de lâenregistreur": {
+    "fr": "Support de lâenregistreur",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Sur l'honneur et aux fins de droit.": {
+    "fr": "Sur l'honneur et aux fins de droit.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "TRAITEMENT DES VIDEO-SURVEILLANCES": {
+    "fr": "TRAITEMENT DES VIDEO-SURVEILLANCES",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "TRAITEMENTS ANTERIEURS": {
+    "fr": "TRAITEMENTS ANTERIEURS",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "TRANSFERT DES DONNEES VERS UN PAYS TIERS": {
+    "fr": "TRANSFERT DES DONNEES VERS UN PAYS TIERS",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Taux de Conformiter": {
+    "fr": "Taux de Conformiter",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Traitement crÃ©Ã© :": {
+    "fr": "Traitement crÃ©Ã© :",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Traitement dâimage": {
+    "fr": "Traitement dâimage",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Traitement sÃ©lectionnÃ©. Les formulaires APDP utiliseront automatiquement ses informations.": {
+    "fr": "Traitement sÃ©lectionnÃ©. Les formulaires APDP utiliseront automatiquement ses informations.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Type de destinataire / lien juridique avec le responsable de traitement": {
+    "fr": "Type de destinataire / lien juridique avec le responsable de traitement",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Utilisation de systÃ¨mes experts": {
+    "fr": "Utilisation de systÃ¨mes experts",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "V. Information des personnes impliquÃ©es": {
+    "fr": "V. Information des personnes impliquÃ©es",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "VI. FinalitÃ© et fondement juridique": {
+    "fr": "VI. FinalitÃ© et fondement juridique",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "VI. Information prÃ©alable": {
+    "fr": "VI. Information prÃ©alable",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "VI. Mise en conformitÃ© auprÃ¨s de l'APDP": {
+    "fr": "VI. Mise en conformitÃ© auprÃ¨s de l'APDP",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "VII. Conservation et stockage": {
+    "fr": "VII. Conservation et stockage",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "VII. DÃ©claration sur l'honneur": {
+    "fr": "VII. DÃ©claration sur l'honneur",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "VII. SÃ©curitÃ© organisÃ©e par le sous-traitant": {
+    "fr": "VII. SÃ©curitÃ© organisÃ©e par le sous-traitant",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "VIII. DÃ©claration sur l'honneur": {
+    "fr": "VIII. DÃ©claration sur l'honneur",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "VIII. Partage des donnÃ©es": {
+    "fr": "VIII. Partage des donnÃ©es",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Veuillez indiquer sâil existe un fondement juridique au transfert": {
+    "fr": "Veuillez indiquer sâil existe un fondement juridique au transfert",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Veuillez prÃ©ciser la nature des traitements opÃ©rÃ©s par le destinataire des donnÃ©es": {
+    "fr": "Veuillez prÃ©ciser la nature des traitements opÃ©rÃ©s par le destinataire des donnÃ©es",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Veuillez sÃ©lectionner une organisation.": {
+    "fr": "Veuillez sÃ©lectionner une organisation.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Visualisation des images en temps rÃ©el": {
+    "fr": "Visualisation des images en temps rÃ©el",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Vue gÃ©nÃ©rale de votre conformitÃ© GRC": {
+    "fr": "Vue gÃ©nÃ©rale de votre conformitÃ© GRC",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Vue synthÃ©tique de la conformitÃ© APDP": {
+    "fr": "Vue synthÃ©tique de la conformitÃ© APDP",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Vue synthÃ©tique des risques ComplianceForge": {
+    "fr": "Vue synthÃ©tique des risques ComplianceForge",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "VÃ©rification du remplissage du formulaire de dÃ©claration": {
+    "fr": "VÃ©rification du remplissage du formulaire de dÃ©claration",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "XI. Droits des personnes": {
+    "fr": "XI. Droits des personnes",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "XII. FormalitÃ©s et suivi": {
+    "fr": "XII. FormalitÃ©s et suivi",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "]\n\n };\n\n /*\n * Valeurs provenant du traitement.\n */\n const declarationKey =\n name.includes(": {
+    "fr": "]\n\n };\n\n /*\n * Valeurs provenant du traitement.\n */\n const declarationKey =\n name.includes(",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "]\n *\n * sans modifier le mapping officiel du PDF.\n */\n if (input.type ===": {
+    "fr": "]\n *\n * sans modifier le mapping officiel du PDF.\n */\n if (input.type ===",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "]\n };\n\n /*\n * Valeurs de la dÃ©claration sur l'honneur.\n *\n * Ces informations sont reprises du Profil APDP lorsqu'elles\n * existent dÃ©jÃ  dans le dossier.\n */\n const declarationPaths = {\n\n nom_prenom: [": {
+    "fr": "]\n };\n\n /*\n * Valeurs de la dÃ©claration sur l'honneur.\n *\n * Ces informations sont reprises du Profil APDP lorsqu'elles\n * existent dÃ©jÃ  dans le dossier.\n */\n const declarationPaths = {\n\n nom_prenom: [",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "],\n\n adresse: [": {
+    "fr": "],\n\n adresse: [",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "],\n\n adresse_electronique: [": {
+    "fr": "],\n\n adresse_electronique: [",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "],\n\n adresse_postale: [": {
+    "fr": "],\n\n adresse_postale: [",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "],\n\n adresse_representant: [": {
+    "fr": "],\n\n adresse_representant: [",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "],\n\n traitement: [": {
+    "fr": "],\n\n traitement: [",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "],\n   adresse_representant: [": {
+    "fr": "],\n   adresse_representant: [",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "affichage\",\n\n            \"Affichage\":\n                \"Affichage\",\n\n            \"DensitÃ© de l": {
+    "fr": "affichage\",\n\n            \"Affichage\":\n                \"Affichage\",\n\n            \"DensitÃ© de l",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "affichage\":\n                \"Modo de exibiÃ§Ã£o\",\n            \"Affichage\": \"ExibiÃ§Ã£o\",\n            \"DensitÃ© de l": {
+    "fr": "affichage\":\n                \"Modo de exibiÃ§Ã£o\",\n            \"Affichage\": \"ExibiÃ§Ã£o\",\n            \"DensitÃ© de l",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "affichage\": \"Display mode\",\n            \"Affichage\": \"Display\",\n            \"DensitÃ© de l": {
+    "fr": "affichage\": \"Display mode\",\n            \"Affichage\": \"Display\",\n            \"DensitÃ© de l",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "apparence\n                                    de l": {
+    "fr": "apparence\n                                    de l",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "autres\n       Ã©lÃ©ments de l": {
+    "fr": "autres\n       Ã©lÃ©ments de l",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "conditions et moyens nÃ©cessaires Ã  l'exercice des missions.": {
+    "fr": "conditions et moyens nÃ©cessaires Ã  l'exercice des missions.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "des donnÃ©es personnelles, points 10 Ã  15, suivie des": {
+    "fr": "des donnÃ©es personnelles, points 10 Ã  15, suivie des",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "en ce qui concerne lâexercice de mes missions.": {
+    "fr": "en ce qui concerne lâexercice de mes missions.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "enregistrer l": {
+    "fr": "enregistrer l",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "enregistrerParametresUtilisateur()": {
+    "fr": "enregistrerParametresUtilisateur()",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "enregistrerProfilUtilisateur()": {
+    "fr": "enregistrerProfilUtilisateur()",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "entreprise\",\n\n            \"AccÃ©der aux formulaires et annexes\":\n                \"AccÃ©der aux formulaires et annexes\",\n\n            \"GÃ©rer les traitements de l": {
+    "fr": "entreprise\",\n\n            \"AccÃ©der aux formulaires et annexes\":\n                \"AccÃ©der aux formulaires et annexes\",\n\n            \"GÃ©rer les traitements de l",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "entreprise\":\n                \"Enter organization information\",\n\n            \"AccÃ©der aux formulaires et annexes\":\n                \"Access forms and annexes\",\n\n            \"GÃ©rer les traitements de l": {
+    "fr": "entreprise\":\n                \"Enter organization information\",\n\n            \"AccÃ©der aux formulaires et annexes\":\n                \"Access forms and annexes\",\n\n            \"GÃ©rer les traitements de l",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "est jamais modifiÃ©.\n- Les coordonnÃ©es servent uniquement Ã  la superposition.\n- La page 3 est une check-list officielle et n": {
+    "fr": "est jamais modifiÃ©.\n- Les coordonnÃ©es servent uniquement Ã  la superposition.\n- La page 3 est une check-list officielle et n",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "est supprimÃ©e.\n- Aucune rubrique n": {
+    "fr": "est supprimÃ©e.\n- Aucune rubrique n",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "honneur.\n *\n * Ces informations sont reprises du Profil APDP lorsqu": {
+    "fr": "honneur.\n *\n * Ces informations sont reprises du Profil APDP lorsqu",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "interface\":\n                \"Idioma de la interfaz\",\n            \"Apparence\": \"Apariencia\",\n            \"Mode d": {
+    "fr": "interface\":\n                \"Idioma de la interfaz\",\n            \"Apparence\": \"Apariencia\",\n            \"Mode d",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "ordre de l": {
+    "fr": "ordre de l",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "organisation\",\n\n            \"Informations de l": {
+    "fr": "organisation\",\n\n            \"Informations de l",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "organisation\",\n\n            \"Nom de l": {
+    "fr": "organisation\",\n\n            \"Nom de l",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "organisation\",\n\n            \"Secteur d": {
+    "fr": "organisation\",\n\n            \"Secteur d",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "organisation\",\n\n            \"Suivre le workflow de notification\":\n                \"Suivre le workflow de notification\",\n\n            /* Organisation */\n\n            \"Gestion de l": {
+    "fr": "organisation\",\n\n            \"Suivre le workflow de notification\":\n                \"Suivre le workflow de notification\",\n\n            /* Organisation */\n\n            \"Gestion de l",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "organisation\":\n                \"GestÃ£o da organizaÃ§Ã£o\",\n            \"Informations de l": {
+    "fr": "organisation\":\n                \"GestÃ£o da organizaÃ§Ã£o\",\n            \"Informations de l",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "organisation\":\n                \"InformaciÃ³n de la organizaciÃ³n\",\n            \"Nom de l": {
+    "fr": "organisation\":\n                \"InformaciÃ³n de la organizaciÃ³n\",\n            \"Nom de l",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "organisation\":\n                \"Nome da organizaÃ§Ã£o\",\n            \"Secteur d": {
+    "fr": "organisation\":\n                \"Nome da organizaÃ§Ã£o\",\n            \"Secteur d",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "organisation\":\n                \"Organization management\",\n\n            \"Informations de l": {
+    "fr": "organisation\":\n                \"Organization management\",\n\n            \"Informations de l",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "organisation\":\n                \"Organization name\",\n\n            \"Secteur d": {
+    "fr": "organisation\":\n                \"Organization name\",\n\n            \"Secteur d",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "ouverture de la page ParamÃ¨tres.\n     */\n\n    /*\n     * IMPORTANT :\n     * Ne pas observer continuellement le DOM.\n     *\n     * L": {
+    "fr": "ouverture de la page ParamÃ¨tres.\n     */\n\n    /*\n     * IMPORTANT :\n     * Ne pas observer continuellement le DOM.\n     *\n     * L",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "personnelles, points 1 Ã  9.": {
+    "fr": "personnelles, points 1 Ã  9.",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "un systÃ¨me d": {
+    "fr": "un systÃ¨me d",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "ÃlÃ¨ves et Ã©tudiants": {
+    "fr": "ÃlÃ¨ves et Ã©tudiants",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Ãtat, dÃ©fense ou sÃ©curitÃ© publique\",\n\n situation_condamnations_penales:\n \"Condamnations pÃ©nales ou mesures de sÃ»retÃ©\",\n\n situation_infraction:\n \"PrÃ©vention, recherche ou poursuite d": {
+    "fr": "Ãtat, dÃ©fense ou sÃ©curitÃ© publique\",\n\n situation_condamnations_penales:\n \"Condamnations pÃ©nales ou mesures de sÃ»retÃ©\",\n\n situation_infraction:\n \"PrÃ©vention, recherche ou poursuite d",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Ãvaluation de la conformitÃ© et du risque": {
+    "fr": "Ãvaluation de la conformitÃ© et du risque",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "Ã©viter une saisie rÃ©pÃ©titive.\n *\n * IMPORTANT :\n * - le mapping PDF officiel n": {
+    "fr": "Ã©viter une saisie rÃ©pÃ©titive.\n *\n * IMPORTANT :\n * - le mapping PDF officiel n",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "â": {
+    "fr": "â",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "â¦..": {
+    "fr": "â¦..",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "âï¸": {
+    "fr": "âï¸",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "âï¸ ParamÃ¨tres": {
+    "fr": "âï¸ ParamÃ¨tres",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "âï¸": {
+    "fr": "âï¸",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "â": {
+    "fr": "â",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "ð  Tableau de bord": {
+    "fr": "ð  Tableau de bord",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "ðï¸": {
+    "fr": "ðï¸",
+    "en": "",
+    "es": "",
+    "pt": ""
+  },
+  "ð¡ï¸ Risques / EBIOS RM": {
+    "fr": "ð¡ï¸ Risques / EBIOS RM",
+    "en": "",
+    "es": "",
+    "pt": ""
+  }
+}

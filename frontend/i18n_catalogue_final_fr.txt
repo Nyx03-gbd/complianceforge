@@ -1,0 +1,422 @@
+0001. * APDP — MISE EN PAGE COMPACTE
+0002. * Aucun impact sur les données ou le mapping PDF.
+0003. * Les blocs s'enchaînent sans espaces artificiels.
+0004. + Ajouter une catégorie
+0005. + Nouvel incident
+0006. - Sélectionner -
+0007. 1 — Faible
+0008. 4 — Élevée
+0009. A_licéite_legitimite
+0010. Abus de privilèges internes
+0011. Abus de privilèges ou mauvaise configuration
+0012. Abus de privilèges ou mauvaise configuration.
+0013. Acceptation électronique
+0014. Accessibilité au sous-traitant
+0015. Accès aux images à distance
+0016. Accès compromis
+0017. Accès physique
+0018. Accès physique au poste central de surveillance
+0019. Accès rapides
+0020. Accès tiers
+0021. Accès électronique
+0022. Accéder aux formulaires et annexes
+0023. Actions à traiter en premier
+0024. Activité
+0025. activée lors de l'intégration
+0026. Adaptez la densité des
+0027. Adhérents
+0028. Administrateur applicatif
+0029. Adresse du représentant légal
+0030. Adresse e-mail
+0031. Adresse postale
+0032. Adresse électronique
+0033. Ajoutez les catégories de données traitées
+0034. Aller au registre des traitements
+0035. Annexe 1 - Sous-traitance
+0036. Annexe 2 - Communication
+0037. Annexe 3 - Interconnexion
+0038. Annexe 4 - Transfert
+0039. apdp-field apdp-field-auto
+0040. après traitement, aucun des six risques ne demeure à un niveau
+0041. Aucun traitement
+0042. Aucun traitement évalué
+0043. Aucun événement de sécurité enregistré
+0044. Authentification multifacteur
+0045. Authentification renforcée
+0046. Autre justification
+0047. Autre situation
+0048. Autres contacts
+0049. Autres modalités d’information des personnes concernées
+0050. avant de préparer un formulaire APDP.
+0051. background: linear-gradient(
+0052. Base légale
+0053. Bienvenue dans ComplianceForge
+0054. box-shadow:
+0055. Cadre juridique et objectif du traitement.
+0056. Calcul et consultation des scores
+0057. CARACTERISTIQUES ET FONCTIONNALITÉS DU SYSTEME
+0058. Caractéristiques techniques des équipements utilisés
+0059. Catégorie
+0060. Catégories de données
+0061. Centralisez vos informations d'organisation, traitements, formalités APDP, risques et incidents.
+0062. Ces informations pourront être réutilisées dans les formulaires APDP.
+0063. Cette fonctionnalité pourra être
+0064. Chargement des organisations...
+0065. Chargement des traitements...
+0066. Chargement du formulaire...
+0067. choice.label ??
+0068. choice.value ??
+0069. Choisissez l'apparence
+0070. Choisissez la langue de
+0071. Choisissez le niveau d'affichage
+0072. Cible : 4
+0073. cible de 4 grâce à la centralisation, l'automatisation, le suivi
+0074. Communication des données personnelles.
+0075. Compact
+0076. ComplianceForge utilise les mappings APDP existants pour
+0077. Compromission d'un prestataire.
+0078. Compromission d’un accès de prestataire
+0079. Compromission d’un compte par hameçonnage
+0080. concernés par la formalité APDP.
+0081. Condamnations pénales ou mesures de sûreté
+0082. Configuration critique
+0083. Configurez les préférences de votre
+0084. Conformité documentaire
+0085. Connexion ComplianceForge
+0086. Conserver intégralement le texte officiel.
+0087. Conserver intégralement les points 10 à 15.
+0088. Conserver la numérotation officielle.
+0089. Consignation sur support (Contrat de confidentialité)
+0090. Consolidation et pilotage
+0091. Consultez et gérez les principaux paramètres de sécurité du compte.
+0092. Contact téléphonique
+0093. Conteneur .main-content introuvable
+0094. Contexte du formulaire
+0095. Contrôle des prestataires
+0096. Contrôlez les notifications de la plateforme.
+0097. Copie de l’extrait du Registre de Commerce et de Crédit Mobilier (RCCM) et / ou de l’Identifiant Fiscal Unique (IFU) de la société / structure
+0098. Copie des clauses de confidentialité de l’hébergeur ou du propriétaire du cloud en cas de conservation des données
+0099. Copie du Contrat de confidentialité signé entre le Responsable de Traitement et le sous-traitant ou les prestataires le cas échéant
+0100. Copie du NPI ou de la pièce d’identité (CIN ou Passeport) du Responsable de traitement de la société
+0101. Courrier postal
+0102. Courrier électronique
+0103. critique ou très élevé. Les risques résiduels restent toutefois
+0104. Critique → Moyen
+0105. Créez d'abord un traitement
+0106. Créez et gérez les traitements de données personnelles
+0107. côté serveur.
+0108. d'un système d'authentification.
+0109. dans le registre.
+0110. dans votre espace de travail.
+0111. Date de mise en œuvre du système
+0112. de ComplianceForge.
+0113. de conformité et de pilotage.
+0114. de conformité et de risque.
+0115. de l'application.
+0116. de l'organisation.
+0117. de la plateforme.
+0118. de votre espace.
+0119. Densité de l'interface
+0120. Dernière évaluation
+0121. display: none
+0122. Documents officiels préservés
+0123. domaines analysés
+0124. Donnée sensible
+0125. DONNÉES COLLECTÉES ET TRAITÉES
+0126. Données collectées et traitées
+0127. Droits des personnes
+0128. du Formulaire Unique APDP.
+0129. du traitement.
+0130. Durée de conservation
+0131. Durée de conservation des images
+0132. Déclaration principale d'un traitement.
+0133. Délai de communication des informations en cas d’exercice du droit d’accès
+0134. Déploiement des fonctionnalités
+0135. Développement
+0136. Email DPO
+0137. Emplacement des caméras
+0138. Engagement de confidentialité signé entre les agents en charge du traitement des données personnelles et le Responsable de Traitement
+0139. Engagement de conformité
+0140. Enregistrer l'organisation
+0141. Enregistrer le profil APDP
+0142. Enregistrer le traitement
+0143. Erreur chargement organisations ( )
+0144. Erreur chargement traitements ( )
+0145. Erreur de chargement
+0146. Erreur de chargement du traitement
+0147. Erreur génération APDP :
+0148. Erreur HTTP
+0149. Erreur scoring HTTP
+0150. Erreur traitements HTTP
+0151. espace ComplianceForge.
+0152. est actuellement active.
+0153. et indiquez si elles sont sensibles.
+0154. et le pilotage apportés par ComplianceForge.
+0155. Ex. Entreprise Démo
+0156. Ex. Services numériques
+0157. Exfiltration ou modification non autorisée.
+0158. Exposition et affichage
+0159. Feuille de route
+0160. Fiabilité
+0161. FICHE N° 001 : VIDÉO SURVEILLANCE
+0162. FINALITES DU SYSTÈME
+0163. Finalité
+0164. Finalité du transfert à l’étranger envisagé
+0165. Finalité et base légale
+0166. Finalités
+0167. Fondations et structuration
+0168. form-actions full
+0169. form-group full
+0170. form-message error
+0171. form-message success
+0172. Formalités APDP
+0173. Formulaire APDP
+0174. Formulaire Capteurs
+0175. Formulaire Site Web
+0176. Formulaire Unique
+0177. Formulaires officiels APDP
+0178. Fournisseur de services numériques
+0179. Français
+0180. Garanties de protection des données
+0181. Gestion des incidents
+0182. Gestion des notifications
+0183. Gestion des privilèges
+0184. Gestion des sessions ouvertes.
+0185. Gestion des traitements de données personnelles
+0186. grid-template-columns:
+0187. Générer le PDF
+0188. Gérer les traitements de l'organisation
+0189. Hameçonnage et compromission de comptes.
+0190. Hors délai
+0191. Identification du traitement
+0192. Identifiez l’ensemble des destinataires des données transférées
+0193. Identité du destinataire des données
+0194. importantes de conformité.
+0195. Impossible d'enregistrer l'organisation :
+0196. Impossible de calculer le score :
+0197. Impossible de charger le formulaire APDP.
+0198. Impossible de récupérer le traitement ( )
+0199. Incidents de sécurité
+0200. informations affichées.
+0201. Informations de l'organisation
+0202. Informations du compte
+0203. Informations générales de l'entreprise
+0204. Informations générales sur le traitement.
+0205. Informations relatives aux sous-traitants.
+0206. input, textarea, select
+0207. input[ ]
+0208. input[ ], textarea[ ], select[ ]
+0209. input[ ]:checked
+0210. Institutions étrangères
+0211. Interconnexion de fichiers ou traitements.
+0212. Intrusion persistante et accès aux fonctions critiques
+0213. Intérêts vitaux
+0214. Je déclare sur l'honneur que les renseignements fournis sont exacts.
+0215. Journal de sécurité
+0216. Journalisation et surveillance
+0217. Justification de la base légale
+0218. L'authentification serveur sera
+0219. l'interface ComplianceForge.
+0220. La modification du mot de passe
+0221. La structure du PDF officiel n'est pas reconstruite ni
+0222. label[ ]
+0223. Langue de l'interface
+0224. Langue utilisée dans l'interface.
+0225. Les documents apparaîtront ici après leur génération.
+0226. Les documents générés à partir des données saisies seront disponibles ici.
+0227. Les incidents enregistrés et leur état de délai seront affichés ici.
+0228. Les principales fonctions de ComplianceForge
+0229. Les événements de sécurité pourront
+0230. Liaison et Réseau
+0231. licéite_legitimite
+0232. Lieu d’installation du système de vidéosurveillance
+0233. LOCALISATION DU SYSTÈME
+0234. M+1 → M+3
+0235. M+4 → M+6
+0236. M+7 → M+10
+0237. Mapping officiel APDP FORMULAIRE DE SIGNALEMENT Le PDF officiel est la source de vérité. Aucune modification de structure, texte ou pagination.
+0238. Maturité
+0239. Meilleur niveau actuel
+0240. Mention légale
+0241. Mentions écrites
+0242. Mesures prioritaires
+0243. Mission d'intérêt public
+0244. Missions officielles du Délégué à la protection des données personnelles, points 1 à 9.
+0245. Mode d'affichage
+0246. Modifier le mot de passe
+0247. modifiée.
+0248. Mot de passe
+0249. Nature des traitements opérés par le destinataire des données
+0250. navigate('incidents')
+0251. navigate('organisation')
+0252. Navigateur courant
+0253. Ne pas supprimer les obligations relatives à l'indépendance du DPD.
+0254. Ne pas supprimer les références au Livre Vème du code du numérique.
+0255. Niveau calculé
+0256. Niveau cible
+0257. niveau cible
+0258. Niveau de risque
+0259. Niveau des mesures de sécurité
+0260. Niveau d’exposition et fiabilité cyber
+0261. Niveau initial → résiduel
+0262. Niveau le plus fréquent
+0263. Nom de l'organisation *
+0264. Nom du traitement *
+0265. Nom et prénoms
+0266. Nom, Prénoms
+0267. Non
+0268. non
+0269. Non configurée
+0270. Non renseigné
+0271. Notifications activées
+0272. Numérique
+0273. nécessite un mécanisme d'authentification
+0274. Objectif :
+0275. Obligation légale
+0276. Organisation *
+0277. Organisation associée
+0278. Organisation par défaut
+0279. Organisation utilisée par défaut
+0280. Organisation « » enregistrée avec succès.
+0281. Oui
+0282. oui
+0283. Ouvrir le PDF
+0284. Paramètres d'évaluation
+0285. Paramètres utilisés pour l'évaluation
+0286. Partie prenante
+0287. Parties prenantes
+0288. Personne à contacter par l’APDP en cas de besoin (DPO)
+0289. Personnes habilitées à y accéder
+0290. Phase 1
+0291. Phase 2
+0292. Phase 3
+0293. Plan d’installation des caméras
+0294. Plateforme GRC
+0295. Plus faible niveau actuel
+0296. Politique de confidentialité
+0297. Politique de sécurité
+0298. Politique de sécurité appliqué au traitement
+0299. Politique de sécurité appliquée au traitement
+0300. pour cette session.
+0301. Prestataire technique
+0302. Preuve des dispositions prises pour satisfaire le droit à l’information préalable
+0303. Preuve du recueil de consentement des personnes concernées en cas de transfert
+0304. Principaux scénarios
+0305. Principaux écarts
+0306. Principe de fonctionnement
+0307. Priorités
+0308. Privilèges abusifs
+0309. Privé
+0310. Progression vers le niveau cible
+0311. Prénoms
+0312. Préparation de l'engagement officiel.
+0313. Préparer
+0314. Prévention, recherche ou poursuite d'une infraction
+0315. Recevoir les alertes
+0316. Recevoir les alertes importantes
+0317. Registre des traitements
+0318. Registre · Formalités APDP · Sécurité · Violations
+0319. Renseigner les informations de l'entreprise
+0320. Renseignez les informations nécessaires à la préparation
+0321. Reporting · Gouvernance DPO
+0322. Représentant légal - Adresse
+0323. Représentant légal - Contacts
+0324. Représentant légal - NPI
+0325. Responsable conformité fictif
+0326. Responsable de traitement fictif
+0327. Responsable du traitement
+0328. Risques identifiés
+0329. réduire les écarts de conformité et atteindre un niveau de maturité
+0330. Réessayer
+0331. Réf.
+0332. Référentiel des documents APDP utilisés par ComplianceForge.
+0333. Réinitialiser
+0334. Résolution du capteur
+0335. Résultat :
+0336. Rôle
+0337. Salariés
+0338. Score de conformité
+0339. Score de risque
+0340. Se reconnecter
+0341. Secteur d'activité
+0342. Sensibilisation au hameçonnage
+0343. Sensibilisation des personnes habilitées au respect de la vie privée et à la politique de sécurité
+0344. Sensibilité des données
+0345. serveur sera activée.
+0346. Service ou personne auprès duquel s’exerce le droit d’accès
+0347. Service responsable
+0348. Session actuelle
+0349. Session terminée
+0350. Situation actuelle → cible
+0351. soumis à un suivi régulier.
+0352. Sous-traitance · Droits · Transferts · Documentation
+0353. soussigné_prenom_nom
+0354. Standard
+0355. standard
+0356. Suite des missions officielles du Délégué à la protection des données personnelles, points 10 à 15, suivie des conditions et moyens nécessaires à l'exercice des missions.
+0357. Suivi du workflow de notification sous 72 heures.
+0358. Suivre le workflow de notification
+0359. Sécurisation des configurations
+0360. Sécurité des données
+0361. Sélectionner un traitement
+0362. Sélectionner une organisation
+0363. Sélectionnez d'abord un traitement dans le registre
+0364. Sélectionnez d'abord une organisation
+0365. Sélectionnez l'organisation et le traitement
+0366. Sélectionnez un formulaire pour préparer les informations
+0367. Sélectionnez un traitement
+0368. Sûreté de l'État, défense ou sécurité publique
+0369. Traitement #
+0370. Traitement d’image
+0371. Traitement « » enregistré avec succès.
+0372. Traitement évalué
+0373. traitement(s) disponible(s).
+0374. Traitements liés à un site web.
+0375. Traitements utilisant des capteurs.
+0376. Transfert de données personnelles.
+0377. transition:
+0378. Très élevé → Faible
+0379. Très élevé → Moyen
+0380. Type de compte
+0381. Utilisateur négligent ou malveillant
+0382. Utilisateurs de ComplianceForge
+0383. Utilisation de systèmes experts
+0384. utilisée pour accéder à la plateforme.
+0385. Veuillez préciser la nature des traitements opérés par le destinataire des données
+0386. Violations de données
+0387. Visualisation des images en temps réel
+0388. Voir l'analyse
+0389. Votre session ComplianceForge
+0390. Vous avez été déconnecté
+0391. Vue générale de votre conformité GRC
+0392. Vérification du remplissage du formulaire de déclaration
+0393. écarts prioritaires
+0394. Écrit
+0395. Élèves et étudiants
+0396. Équipe informatique
+0397. État actuel des processus de conformité APDP et niveau cible ComplianceForge.
+0398. État de l'authentification multifacteur.
+0399. Évaluation de la conformité et du risque
+0400. Évaluation de la conformité et du risque des traitements.
+0401. être historisés lorsque l'authentification
+0402. ← Retour au tableau de bord
+0403. ● Actif
+0404. ● Session active
+0405. ☀️ Clair
+0406. ⚙️ Paramètres
+0407. ⚠ Aucun traitement sélectionné
+0408. ✓ Enregistrer
+0409. ✓ Enregistrer les paramètres
+0410. ✓ Paramètres enregistrés.
+0411. ✓ Profil enregistré avec succès.
+0412. 🇪🇸 Español
+0413. 🇫🇷 Français
+0414. 🇬🇧 English
+0415. 🇵🇹 Português
+0416. 🌙 Sombre
+0417. 🏠 Tableau de bord
+0418. 🏢 Organisation
+0419. 📊 Analyse des écarts
+0420. 📋 Registre des traitements
+0421. 🔐 Sécurité
+0422. 🧾 Formulaires APDP

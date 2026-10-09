@@ -1,0 +1,18 @@
+{
+  "version": "v1",
+  "description": "Grille de pondération du score de conformité documentaire.",
+  "sections": {
+    "identification": {
+      "poids": 15,
+      "champs": { "nom": 5, "service_responsable": 10 }
+    },
+    "finalite_et_base_legale": {
+      "poids": 40,
+      "champs": { "finalite": 15, "base_legale": 15, "justification_base_legale": 10 }
+    },
+    "donnees_traitees": {
+      "poids": 45,
+      "champs": { "categories_donnees": 45 }
+    }
+  }
+}
