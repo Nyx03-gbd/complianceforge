@@ -29,4 +29,4 @@ La documentation de l'API est disponible sur https://api.complianceforge.test/do
 - `docker-compose.yml`, `Caddyfile`, `.env.example` : configuration
 
 ## Sources et licences
-Les formulaires APDP sont les documents officiels de l'APDP du Bénin. Les dépendances open source sont listées dans `backend/requirements.txt`. Le code applicatif a été écrit par l'équipe.
+Les formulaires APDP sont les documents officiels de l'APDP du Bénin. Les dépendances open source sont listées dans `backend/requirements.txt`. Le code applicatif a été écrit par moi même.
